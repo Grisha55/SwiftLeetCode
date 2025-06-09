@@ -9,12 +9,14 @@ This repo is part of my journey to master data structures, algorithms, and techn
 
 ## 📁 Repository Structure
 Each solution is placed in a folder named by its problem number and title:
+```
 ├── 0001-Two-Sum/
 │ └── Solution.swift
 ├── 0020-Valid-Parentheses/
 │ └── Solution.swift
 ├── 0053-Maximum-Subarray/
 │ └── Solution.swift
+```
 
 Inside each folder:
 - `Solution.swift`: Swift code with inline comments.
