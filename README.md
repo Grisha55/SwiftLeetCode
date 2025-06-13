@@ -11,16 +11,24 @@ This repo is part of my journey to master data structures, algorithms, and techn
 Each solution is placed in a folder named by its problem number and title:
 ```
 ├── 0001-Two-Sum/
-│ └── Solution.swift
+│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0001-Two-Sum/0001-Two-Sum%3ASolution.playground/Contents.swift)
+├── 0002-Add-Two-Numbers/
+│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0002-Add-Two-Numbers/Solution.swift)
+├── 0003-Longest-Substring-Without-Repeating-Characters/
+│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0003-Longest-Substring-Without-Repeating-Characters/Solution.swift)
+├── 0007-Reverse-Integer/
+│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0007-Reverse-Integer/Solution.swift)
+├── 0009-Palindrome-Number/
+│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0009-Palindrome-Number/Solution.swift)
 ├── 0020-Valid-Parentheses/
-│ └── Solution.swift
+│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0020-Valid-Parentheses/Solution.swift)
 ├── 0053-Maximum-Subarray/
-│ └── Solution.swift
+│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0053-Maximum-Subarray/Solution.swift)
 ```
 
 Inside each folder:
 - `Solution.swift`: Swift code with inline comments.
-- `README.md` (optional): Short problem description and approach.
+- `Problem.md` : Short problem description and approach.
 
 ---
 
@@ -34,12 +42,16 @@ Inside each folder:
 ## ✅ Problem Progress
 | Problem # | Title                     | Status |
 |-----------|---------------------------|--------|
-| 1         | Two Sum                   | ✅ Done |
-| 20        | Valid Parentheses         | ✅ Done |
-| 53        | Maximum Subarray          | ✅ Done |
-| ...       |                           | 🚧 WIP  |
+| 1         | Two Sum                                           | ✅ Done |
+| 2         | Add Two Numbers                                   | ✅ Done |
+| 3         | Longest Substring Without Repeating Characters    | ✅ Done |
+| 7         | Reverse Integer                                   | ✅ Done |
+| 9         | Palindrome Number                                 | ✅ Done |
+| 20        | Valid Parentheses                                 | ✅ Done |
+| 53        | Maximum Subarray                                  | ✅ Done |
+| ...       |                                                   | 🚧 WIP  |
 
-You can track my progress on [leetcode.com](https://leetcode.com).
+You can track my progress on [leetcode.com](https://github.com/Grisha55).
 
 ---
 
@@ -61,7 +73,7 @@ cd 0001-Two-Sum
 # Run the code
 swift run
 
-## 💡 Tips for Interview Prep
+## 💡 Tips for myself:
 ▪️ Practice daily, focus on patterns
 ▪️ Learn time and space complexity
 ▪️ Understand recursion, backtracking, DP, and graphs
