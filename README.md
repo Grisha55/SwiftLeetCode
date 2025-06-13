@@ -12,15 +12,30 @@ Each solution is placed in a folder named by its problem number and title:
 ```
 ├── 0001-Two-Sum/
 │ └── Solution.swift
+│ └── Problem.md
+├── 0002-Add-Two-Numbers/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0003-Longest-Substring-Without-Repeating-Characters/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0007-Reverse-Integer/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0009-Palindrome-Number/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0020-Valid-Parentheses/
 │ └── Solution.swift
+│ └── Problem.md
 ├── 0053-Maximum-Subarray/
 │ └── Solution.swift
+│ └── Problem.md
 ```
 
 Inside each folder:
 - `Solution.swift`: Swift code with inline comments.
-- `README.md` (optional): Short problem description and approach.
+- `Problem.md` : Short problem description and approach.
 
 ---
 
@@ -34,12 +49,16 @@ Inside each folder:
 ## ✅ Problem Progress
 | Problem # | Title                     | Status |
 |-----------|---------------------------|--------|
-| 1         | Two Sum                   | ✅ Done |
-| 20        | Valid Parentheses         | ✅ Done |
-| 53        | Maximum Subarray          | ✅ Done |
-| ...       |                           | 🚧 WIP  |
+| 1         | Two Sum                                           | ✅ Done |
+| 2         | Add Two Numbers                                   | ✅ Done |
+| 3         | Longest Substring Without Repeating Characters    | ✅ Done |
+| 7         | Reverse Integer                                   | ✅ Done |
+| 9         | Palindrome Number                                 | ✅ Done |
+| 20        | Valid Parentheses                                 | ✅ Done |
+| 53        | Maximum Subarray                                  | ✅ Done |
+| ...       |                                                   | 🚧 WIP  |
 
-You can track my progress on [leetcode.com](https://leetcode.com).
+You can track my progress on [leetcode.com](https://github.com/Grisha55).
 
 ---
 
@@ -61,7 +80,7 @@ cd 0001-Two-Sum
 # Run the code
 swift run
 
-## 💡 Tips for Interview Prep
+## 💡 Tips for myself:
 ▪️ Practice daily, focus on patterns
 ▪️ Learn time and space complexity
 ▪️ Understand recursion, backtracking, DP, and graphs
