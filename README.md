@@ -11,19 +11,26 @@ This repo is part of my journey to master data structures, algorithms, and techn
 Each solution is placed in a folder named by its problem number and title:
 ```
 ├── 0001-Two-Sum/
-│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0001-Two-Sum/0001-Two-Sum%3ASolution.playground/Contents.swift)
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0002-Add-Two-Numbers/
-│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0002-Add-Two-Numbers/Solution.swift)
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0003-Longest-Substring-Without-Repeating-Characters/
-│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0003-Longest-Substring-Without-Repeating-Characters/Solution.swift)
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0007-Reverse-Integer/
-│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0007-Reverse-Integer/Solution.swift)
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0009-Palindrome-Number/
-│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0009-Palindrome-Number/Solution.swift)
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0020-Valid-Parentheses/
-│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0020-Valid-Parentheses/Solution.swift)
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0053-Maximum-Subarray/
-│ └── [Solution.swift](https://github.com/Grisha55/SwiftLeetCode/blob/main/0053-Maximum-Subarray/Solution.swift)
+│ └── Solution.swift
+│ └── Problem.md
 ```
 
 Inside each folder:
