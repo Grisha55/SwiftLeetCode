@@ -25,6 +25,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0007-Reverse-Integer/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0008-String-to-Integer/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0009-Palindrome-Number/
 │ └── Solution.swift
 │ └── Problem.md
@@ -75,6 +78,7 @@ Inside each folder:
 | 3         | Longest Substring Without Repeating Characters    | ✅ Done |
 | 4         | Median of Two Sorted Arrays                       | ✅ Done |
 | 7         | Reverse Integer                                   | ✅ Done |
+| 8         | String to Integer (atoi)                          | ✅ Done |
 | 9         | Palindrome Number                                 | ✅ Done |
 | 13        | Roman to Integer                                  | ✅ Done |
 | 14        | Longest Common Prefix                             | ✅ Done |
