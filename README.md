@@ -81,6 +81,7 @@ Inside each folder:
 | 15        | 3Sum                                              | ✅ Done |
 | 17        | Letter Combinations of a Phone Number             | ✅ Done |
 | 20        | Valid Parentheses                                 | ✅ Done |
+| 22        | Generate Parentheses                              | ✅ Done |
 | 53        | Maximum Subarray                                  | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit           | ✅ Done |
 | ...       |                                                   | 🚧 WIP  |
