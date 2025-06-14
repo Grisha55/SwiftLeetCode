@@ -28,10 +28,28 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0009-Palindrome-Number/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0013-Roman-To-Integer/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0014-Longest-Common-Prefix/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0015-3Sum/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0017-Letter-Combinations-of-a-Phone-Number/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0020-Valid-Parentheses/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0022-Generate-Parentheses/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0053-Maximum-Subarray/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2566-Maximum-Difference-by-Remapping-a-Digit/
 │ └── Solution.swift
 │ └── Problem.md
 ```
@@ -58,8 +76,13 @@ Inside each folder:
 | 4         | Median of Two Sorted Arrays                       | ✅ Done |
 | 7         | Reverse Integer                                   | ✅ Done |
 | 9         | Palindrome Number                                 | ✅ Done |
+| 13        | Roman to Integer                                  | ✅ Done |
+| 14        | Longest Common Prefix                             | ✅ Done |
+| 15        | 3Sum                                              | ✅ Done |
+| 17        | Letter Combinations of a Phone Number             | ✅ Done |
 | 20        | Valid Parentheses                                 | ✅ Done |
 | 53        | Maximum Subarray                                  | ✅ Done |
+| 2566      | Maximum Difference by Remapping a Digit           | ✅ Done |
 | ...       |                                                   | 🚧 WIP  |
 
 You can track my progress on [leetcode.com](https://github.com/Grisha55).
