@@ -76,7 +76,37 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0035-Search-Insert-Position/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0042-Trapping-Rain-Water/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0049-Group-Anagrams/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0053-Maximum-Subarray/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0058-Length-of-Last-Word/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0062-Unique-Paths/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0063-Unique-Paths-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0064-Minimum-Path-Sum/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0066-Plus-One/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0067-Add-Binary/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0069-Sqrt-x/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0070-Climbing-Stairs/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
@@ -125,7 +155,17 @@ Inside each folder:
 | 28        | Find the Index of the First Occurrence in a String      | ✅ Done |
 | 34        | Find First and Last Position of Element in Sorted Array | ✅ Done |
 | 35        | Search Insert Position                                  | ✅ Done |
+| 42        | Trapping Rain Water                                     | ✅ Done |
+| 49        | Group Anagrams                                          | ✅ Done |
 | 53        | Maximum Subarray                                        | ✅ Done |
+| 58        | Length of Last Word                                     | ✅ Done |
+| 62        | Unique Paths                                            | ✅ Done |
+| 63        | Unique Paths II                                         | ✅ Done |
+| 64        | Minimum Path Sum                                        | ✅ Done |
+| 66        | Plus One                                                | ✅ Done |
+| 67        | Add Binary                                              | ✅ Done |
+| 69        | Sqrt X                                                  | ✅ Done |
+| 70        | Climbing Stairs                                         | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer     | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                 | ✅ Done |
 | ...       |                                                         | 🚧 WIP  |
