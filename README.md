@@ -22,6 +22,12 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0004-Median-Of-Two-Sorted-Arrays/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0005-Longest-Palindromic-Substring/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0006-Zigzag-Conversion/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0007-Reverse-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -29,6 +35,9 @@ Each solution is placed in a folder named by its problem number and title:
 │ └── Solution.swift
 │ └── Problem.md
 ├── 0009-Palindrome-Number/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0010-Regular-Expression-Matching/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 0013-Roman-To-Integer/
@@ -46,10 +55,31 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0020-Valid-Parentheses/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0021-Merge-Two-Sorted-Lists/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0022-Generate-Parentheses/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0026-Remove-Duplicates-from-Sorted-Array/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0027-Remove-Element/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0028-Find-the-Index-of-the-First-Occurrence-in-a-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0035-Search-Insert-Position/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0053-Maximum-Subarray/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 2566-Maximum-Difference-by-Remapping-a-Digit/
@@ -73,22 +103,32 @@ Inside each folder:
 ## ✅ Problem Progress
 | Problem # | Title                     | Status |
 |-----------|---------------------------|--------|
-| 1         | Two Sum                                           | ✅ Done |
-| 2         | Add Two Numbers                                   | ✅ Done |
-| 3         | Longest Substring Without Repeating Characters    | ✅ Done |
-| 4         | Median of Two Sorted Arrays                       | ✅ Done |
-| 7         | Reverse Integer                                   | ✅ Done |
-| 8         | String to Integer (atoi)                          | ✅ Done |
-| 9         | Palindrome Number                                 | ✅ Done |
-| 13        | Roman to Integer                                  | ✅ Done |
-| 14        | Longest Common Prefix                             | ✅ Done |
-| 15        | 3Sum                                              | ✅ Done |
-| 17        | Letter Combinations of a Phone Number             | ✅ Done |
-| 20        | Valid Parentheses                                 | ✅ Done |
-| 22        | Generate Parentheses                              | ✅ Done |
-| 53        | Maximum Subarray                                  | ✅ Done |
-| 2566      | Maximum Difference by Remapping a Digit           | ✅ Done |
-| ...       |                                                   | 🚧 WIP  |
+| 1         | Two Sum                                                 | ✅ Done |
+| 2         | Add Two Numbers                                         | ✅ Done |
+| 3         | Longest Substring Without Repeating Characters          | ✅ Done |
+| 4         | Median of Two Sorted Arrays                             | ✅ Done |
+| 5         | Longest Palindromic Substring                           | ✅ Done |
+| 6         | Zigzag Conversion                                       | ✅ Done |
+| 7         | Reverse Integer                                         | ✅ Done |
+| 8         | String to Integer (atoi)                                | ✅ Done |
+| 9         | Palindrome Number                                       | ✅ Done |
+| 10        | Regular Expression Matching                             | ✅ Done |
+| 13        | Roman to Integer                                        | ✅ Done |
+| 14        | Longest Common Prefix                                   | ✅ Done |
+| 15        | 3Sum                                                    | ✅ Done |
+| 17        | Letter Combinations of a Phone Number                   | ✅ Done |
+| 20        | Valid Parentheses                                       | ✅ Done |
+| 21        | Merge Two Sorted Lists                                  | ✅ Done |
+| 22        | Generate Parentheses                                    | ✅ Done |
+| 26        | Remove Duplicates from Sorted Array                     | ✅ Done |
+| 27        | Remove Element                                          | ✅ Done |
+| 28        | Find the Index of the First Occurrence in a String      | ✅ Done |
+| 34        | Find First and Last Position of Element in Sorted Array | ✅ Done |
+| 35        | Search Insert Position                                  | ✅ Done |
+| 53        | Maximum Subarray                                        | ✅ Done |
+| 1432      | Max Difference You Can Get From Changing an Integer     | ✅ Done |
+| 2566      | Maximum Difference by Remapping a Digit                 | ✅ Done |
+| ...       |                                                         | 🚧 WIP  |
 
 You can track my progress on [leetcode.com](https://github.com/Grisha55).
 
