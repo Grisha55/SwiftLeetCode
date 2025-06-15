@@ -8,9 +8,11 @@ Given two strings `needle` and `haystack`, return the index of the first occurre
 
 ### Example 1
 **Input:**  
-haystack = "sadbutsad", needle = "sad" 
+haystack = "sadbutsad", needle = "sad"
+<br>
 **Output:**  
 -1
+<br>
 **Explanation:**  "leeto" did not occur in "leetcode", so we return -1.
 
 ## Constraints
