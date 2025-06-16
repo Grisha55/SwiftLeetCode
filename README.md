@@ -109,6 +109,45 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0070-Climbing-Stairs/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0072-Edit-Distance/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0076-Minimum-Window-Substring/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0083-Remove-Duplicates-from-Sorted-List/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0088-Merge-Sorted-Array/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0091-Decode-Ways/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0094-Binary-Tree-Inorder-Traversal/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0095-Unique-Binary-Search-Trees-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0096-Unique-Binary-Search-Trees/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0115-Distinct-Subsequences/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0118-Pascals-Triangle/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0119-Pascals-Triangle-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0120-Triangle/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0121-Best-Time-to-Buy-and-Sell-Stock/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -166,6 +205,19 @@ Inside each folder:
 | 67        | Add Binary                                              | ✅ Done |
 | 69        | Sqrt X                                                  | ✅ Done |
 | 70        | Climbing Stairs                                         | ✅ Done |
+| 72        | Edit Distance                                           | ✅ Done |
+| 76        | Minimum Window Substring                                | ✅ Done |
+| 83        | Remove Duplicates from Sorted List                      | ✅ Done |
+| 88        | Merge Sorted Array                                      | ✅ Done |
+| 91        | Decode Ways                                             | ✅ Done |
+| 94        | Binary Tree Inorder Traversal                           | ✅ Done |
+| 95        | Unique Binary Search Trees II                           | ✅ Done |
+| 96        | Unique Binary Search Trees                              | ✅ Done |
+| 115       | Distinct Subsequences                                   | ✅ Done |
+| 118       | Pascal's Triangle                                       | ✅ Done |
+| 119       | Pascal's Triangle II                                    | ✅ Done |
+| 120       | Triangle                                                | ✅ Done |
+| 121       | Best Time to Buy and Sell Stock                         | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer     | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                 | ✅ Done |
 | ...       |                                                         | 🚧 WIP  |
