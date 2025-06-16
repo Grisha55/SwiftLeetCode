@@ -19,10 +19,15 @@ s = "226"
 **Explanation:**
 <br>
 The triangle looks like:
+<br>
    2
+   <br>
   3 4
+  <br>
  6 5 7
+ <br>
 4 1 8 3
+<br>
 The minimum path sum from top to bottom is 2 + 3 + 5 + 1 = 11 (underlined above).
 
 ## Constraints
