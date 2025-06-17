@@ -64,7 +64,7 @@ class Solution {
 
                 2. We choose a number for the beginning of the array - m ways.
 
-                3. For the remaining locations (where the elements are NOT equal to the previous ones) - we have n - 1 - k      such                 locations. Each can be anything but the previous → m - 1 variants.
+                3. For the remaining locations (where the elements are NOT equal to the previous ones) - we have n - 1 - k such locations. Each can be anything but the previous → m - 1 variants.
 
                 Therefore: qpow(m - 1, n - k - 1)
         */
