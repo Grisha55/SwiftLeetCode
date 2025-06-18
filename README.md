@@ -148,10 +148,70 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0121-Best-Time-to-Buy-and-Sell-Stock/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0122-Best-Time-to-Buy-and-Sell-Stock-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0123-Best-Time-to-Buy-and-Sell-Stock-III/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0124-Binary-Tree-Maximum-Path-Sum/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0125-Valid-Palindrome/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0128-Longest-Consecutive-Sequence/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0135-Candy/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0136-Single-Number/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0139-Word-Break/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0155-Min-Stack/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0167-Two-Sum-II-Input-Array-Is-Sorted/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0168-Excel-Sheet-Column-Title/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0169-Majority-Element/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0171-Excel-Sheet-Column-Number/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0175-Combine-Two-Tables/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0188-Best-Time-to-Buy-and-Sell-Stock-IV/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0198-House-Robber/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0202-Happy-Number/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0204-Count-Primes/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 2566-Maximum-Difference-by-Remapping-a-Digit/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2966-Divide-Array-Into-Arrays-With-Max-Difference/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3405-Count-the-Number-Of-Arrays-with-K-Matching-Adjacent-Elements/
 │ └── Solution.swift
 │ └── Problem.md
 ```
@@ -170,57 +230,77 @@ Inside each folder:
 ---
 
 ## ✅ Problem Progress
-| Problem # | Title                     | Status |
-|-----------|---------------------------|--------|
-| 1         | Two Sum                                                 | ✅ Done |
-| 2         | Add Two Numbers                                         | ✅ Done |
-| 3         | Longest Substring Without Repeating Characters          | ✅ Done |
-| 4         | Median of Two Sorted Arrays                             | ✅ Done |
-| 5         | Longest Palindromic Substring                           | ✅ Done |
-| 6         | Zigzag Conversion                                       | ✅ Done |
-| 7         | Reverse Integer                                         | ✅ Done |
-| 8         | String to Integer (atoi)                                | ✅ Done |
-| 9         | Palindrome Number                                       | ✅ Done |
-| 10        | Regular Expression Matching                             | ✅ Done |
-| 13        | Roman to Integer                                        | ✅ Done |
-| 14        | Longest Common Prefix                                   | ✅ Done |
-| 15        | 3Sum                                                    | ✅ Done |
-| 17        | Letter Combinations of a Phone Number                   | ✅ Done |
-| 20        | Valid Parentheses                                       | ✅ Done |
-| 21        | Merge Two Sorted Lists                                  | ✅ Done |
-| 22        | Generate Parentheses                                    | ✅ Done |
-| 26        | Remove Duplicates from Sorted Array                     | ✅ Done |
-| 27        | Remove Element                                          | ✅ Done |
-| 28        | Find the Index of the First Occurrence in a String      | ✅ Done |
-| 34        | Find First and Last Position of Element in Sorted Array | ✅ Done |
-| 35        | Search Insert Position                                  | ✅ Done |
-| 42        | Trapping Rain Water                                     | ✅ Done |
-| 49        | Group Anagrams                                          | ✅ Done |
-| 53        | Maximum Subarray                                        | ✅ Done |
-| 58        | Length of Last Word                                     | ✅ Done |
-| 62        | Unique Paths                                            | ✅ Done |
-| 63        | Unique Paths II                                         | ✅ Done |
-| 64        | Minimum Path Sum                                        | ✅ Done |
-| 66        | Plus One                                                | ✅ Done |
-| 67        | Add Binary                                              | ✅ Done |
-| 69        | Sqrt X                                                  | ✅ Done |
-| 70        | Climbing Stairs                                         | ✅ Done |
-| 72        | Edit Distance                                           | ✅ Done |
-| 76        | Minimum Window Substring                                | ✅ Done |
-| 83        | Remove Duplicates from Sorted List                      | ✅ Done |
-| 88        | Merge Sorted Array                                      | ✅ Done |
-| 91        | Decode Ways                                             | ✅ Done |
-| 94        | Binary Tree Inorder Traversal                           | ✅ Done |
-| 95        | Unique Binary Search Trees II                           | ✅ Done |
-| 96        | Unique Binary Search Trees                              | ✅ Done |
-| 115       | Distinct Subsequences                                   | ✅ Done |
-| 118       | Pascal's Triangle                                       | ✅ Done |
-| 119       | Pascal's Triangle II                                    | ✅ Done |
-| 120       | Triangle                                                | ✅ Done |
-| 121       | Best Time to Buy and Sell Stock                         | ✅ Done |
-| 1432      | Max Difference You Can Get From Changing an Integer     | ✅ Done |
-| 2566      | Maximum Difference by Remapping a Digit                 | ✅ Done |
-| ...       |                                                         | 🚧 WIP  |
+| Problem # | Title                                                             | Status |
+|-----------|-------------------------------------------------------------------|--------|
+| 1         | Two Sum                                                           | ✅ Done |
+| 2         | Add Two Numbers                                                   | ✅ Done |
+| 3         | Longest Substring Without Repeating Characters                    | ✅ Done |
+| 4         | Median of Two Sorted Arrays                                       | ✅ Done |
+| 5         | Longest Palindromic Substring                                     | ✅ Done |
+| 6         | Zigzag Conversion                                                 | ✅ Done |
+| 7         | Reverse Integer                                                   | ✅ Done |
+| 8         | String to Integer (atoi)                                          | ✅ Done |
+| 9         | Palindrome Number                                                 | ✅ Done |
+| 10        | Regular Expression Matching                                       | ✅ Done |
+| 13        | Roman to Integer                                                  | ✅ Done |
+| 14        | Longest Common Prefix                                             | ✅ Done |
+| 15        | 3Sum                                                              | ✅ Done |
+| 17        | Letter Combinations of a Phone Number                             | ✅ Done |
+| 20        | Valid Parentheses                                                 | ✅ Done |
+| 21        | Merge Two Sorted Lists                                            | ✅ Done |
+| 22        | Generate Parentheses                                              | ✅ Done |
+| 26        | Remove Duplicates from Sorted Array                               | ✅ Done |
+| 27        | Remove Element                                                    | ✅ Done |
+| 28        | Find the Index of the First Occurrence in a String                | ✅ Done |
+| 34        | Find First and Last Position of Element in Sorted Array           | ✅ Done |
+| 35        | Search Insert Position                                            | ✅ Done |
+| 42        | Trapping Rain Water                                               | ✅ Done |
+| 49        | Group Anagrams                                                    | ✅ Done |
+| 53        | Maximum Subarray                                                  | ✅ Done |
+| 58        | Length of Last Word                                               | ✅ Done |
+| 62        | Unique Paths                                                      | ✅ Done |
+| 63        | Unique Paths II                                                   | ✅ Done |
+| 64        | Minimum Path Sum                                                  | ✅ Done |
+| 66        | Plus One                                                          | ✅ Done |
+| 67        | Add Binary                                                        | ✅ Done |
+| 69        | Sqrt X                                                            | ✅ Done |
+| 70        | Climbing Stairs                                                   | ✅ Done |
+| 72        | Edit Distance                                                     | ✅ Done |
+| 76        | Minimum Window Substring                                          | ✅ Done |
+| 83        | Remove Duplicates from Sorted List                                | ✅ Done |
+| 88        | Merge Sorted Array                                                | ✅ Done |
+| 91        | Decode Ways                                                       | ✅ Done |
+| 94        | Binary Tree Inorder Traversal                                     | ✅ Done |
+| 95        | Unique Binary Search Trees II                                     | ✅ Done |
+| 96        | Unique Binary Search Trees                                        | ✅ Done |
+| 115       | Distinct Subsequences                                             | ✅ Done |
+| 118       | Pascal's Triangle                                                 | ✅ Done |
+| 119       | Pascal's Triangle II                                              | ✅ Done |
+| 120       | Triangle                                                          | ✅ Done |
+| 121       | Best Time to Buy and Sell Stock                                   | ✅ Done |
+| 122       | Best Time to Buy and Sell Stock II                                | ✅ Done |
+| 123       | Best Time to Buy and Sell Stock III                               | ✅ Done |
+| 124       | Binary Tree Maximum Path Sum                                      | ✅ Done |
+| 125       | Valid Palindrome                                                  | ✅ Done |
+| 128       | Longest Consecutive Sequence                                      | ✅ Done |
+| 135       | Candy                                                             | ✅ Done |
+| 136       | Single Number                                                     | ✅ Done |
+| 139       | Word Break                                                        | ✅ Done |
+| 155       | Min Stack                                                         | ✅ Done |
+| 167       | Two Sum II - Input Array Is Sorted                                | ✅ Done |
+| 168       | Excel Sheet Column Title                                          | ✅ Done |
+| 169       | Majority Element                                                  | ✅ Done |
+| 171       | Excel Sheet Column Number                                         | ✅ Done |
+| 175       | Combine Two Tables                                                | ✅ Done |
+| 188       | Best Time to Buy and Sell Stock IV                                | ✅ Done |
+| 198       | House Robber                                                      | ✅ Done |
+| 202       | Happy Number                                                      | ✅ Done |
+| 204       | Count Primes                                                      | ✅ Done |
+| 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
+| 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
+| 2966      | Divide Array Into Arrays With Max Difference                      | ✅ Done |
+| 3405      | Count the Number of Arrays with K Matching Adjacent Elements      | ✅ Done |
+| ...       |                                                                   | 🚧 WIP  |
 
 You can track my progress on [leetcode.com](https://github.com/Grisha55).
 
