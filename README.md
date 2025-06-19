@@ -229,6 +229,36 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0287-Find-the-Duplicate-Number/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0300-Longest-Increasing-Subsequence/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0322-Coin-Change/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0326-Power-of-Three/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0337-House-Robber-III/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0338-Counting-Bits/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0342-Power-of-Four/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0344-Reverse-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0345-Reverse-Vowels-of-a-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0349-Intersection-of-Two-Arrays/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -335,6 +365,16 @@ Inside each folder:
 | 242       | Valid Anagram                                                     | ✅ Done |
 | 279       | Perfect Squares                                                   | ✅ Done |
 | 287       | Find the Duplicate Number                                         | ✅ Done |
+| 300       | Longest Increasing Subsequence                                    | ✅ Done |
+| 309       | Best Time to Buy and Sell Stock with Cooldown                     | ✅ Done |
+| 322       | Coin Change                                                       | ✅ Done |
+| 326       | Power of Three                                                    | ✅ Done |
+| 337       | House Robber III                                                  | ✅ Done |
+| 338       | Counting Bits                                                     | ✅ Done |
+| 342       | Power of Four                                                     | ✅ Done |
+| 344       | Reverse String                                                    | ✅ Done |
+| 345       | Reverse Vowels of a String                                        | ✅ Done |
+| 349       | Intersection of Two Arrays                                        | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
 | 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
