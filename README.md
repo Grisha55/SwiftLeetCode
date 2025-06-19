@@ -202,7 +202,37 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0204-Count-Primes/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0213-House-Robber-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0217-Contains-Duplicate/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0221-Maximal-Square/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0231-Power-of-Two/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0232-Implement-Queue-using-Stacks/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0238-Product-of-Array-Except-Self/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0242-Valid-Anagram/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0279-Perfect-Squares/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0287-Find-the-Duplicate-Number/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2294-Partition-Array-Such-That-Maximum-Difference-Is-K/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 2566-Maximum-Difference-by-Remapping-a-Digit/
@@ -296,7 +326,17 @@ Inside each folder:
 | 198       | House Robber                                                      | ✅ Done |
 | 202       | Happy Number                                                      | ✅ Done |
 | 204       | Count Primes                                                      | ✅ Done |
+| 213       | House Robber II                                                   | ✅ Done |
+| 217       | Contains Duplicate                                                | ✅ Done |
+| 221       | Maximal Square                                                    | ✅ Done |
+| 231       | Power of Two                                                      | ✅ Done |
+| 232       | Implement Queue using Stacks                                      | ✅ Done |
+| 238       | Product of Array Except Self                                      | ✅ Done |
+| 242       | Valid Anagram                                                     | ✅ Done |
+| 279       | Perfect Squares                                                   | ✅ Done |
+| 287       | Find the Duplicate Number                                         | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
+| 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
 | 2966      | Divide Array Into Arrays With Max Difference                      | ✅ Done |
 | 3405      | Count the Number of Arrays with K Matching Adjacent Elements      | ✅ Done |
