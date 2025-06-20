@@ -259,6 +259,36 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0349-Intersection-of-Two-Arrays/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0350-Intersection-of-Two-Arrays-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0354-Russian-Doll-Envelopes/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0367-Valid-Perfect-Square/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0374-Guess-Number-Higher-or-Lower/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0377-Combination-Sum-IV/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0383-Ransom-Note/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0386-Lexicographical-Numbers/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0387-First-Unique-Character-in-a-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0389-Find-the-Difference/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0392-Is-Subsequence/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -272,6 +302,9 @@ Each solution is placed in a folder named by its problem number and title:
 │ └── Solution.swift
 │ └── Problem.md
 ├── 3405-Count-the-Number-Of-Arrays-with-K-Matching-Adjacent-Elements/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3443-Maximum-Manhattan-Distance-After-K-Changes/
 │ └── Solution.swift
 │ └── Problem.md
 ```
@@ -375,11 +408,22 @@ Inside each folder:
 | 344       | Reverse String                                                    | ✅ Done |
 | 345       | Reverse Vowels of a String                                        | ✅ Done |
 | 349       | Intersection of Two Arrays                                        | ✅ Done |
+| 350       | Intersection of Two Arrays II                                     | ✅ Done |
+| 354       | Russian Doll Envelopes                                            | ✅ Done |
+| 367       | Valid Perfect Square                                              | ✅ Done |
+| 374       | Guess Number Higher or Lower                                      | ✅ Done |
+| 377       | Combination Sum IV                                                | ✅ Done |
+| 383       | Ransom Note                                                       | ✅ Done |
+| 386       | Lexicographical Numbers                                           | ✅ Done |
+| 387       | First Unique Character in a String                                | ✅ Done |
+| 389       | Find the Difference                                               | ✅ Done |
+| 392       | Is Subsequence                                                    | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
 | 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
 | 2966      | Divide Array Into Arrays With Max Difference                      | ✅ Done |
 | 3405      | Count the Number of Arrays with K Matching Adjacent Elements      | ✅ Done |
+| 3443      | Maximum Manhattan Distance After K Changes                        | ✅ Done |
 | ...       |                                                                   | 🚧 WIP  |
 
 You can track my progress on [leetcode.com](https://github.com/Grisha55).
