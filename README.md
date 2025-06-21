@@ -289,6 +289,69 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0392-Is-Subsequence/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0409-Longest-Palindrome/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0412-Fizz-Buzz/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0438-Find-All-Anagrams-in-a-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0440-K-th-Smallest-in-Lexicographical-Order/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0442-Find-All-Duplicates-in-an-Array/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0448-Find-All-Numbers-Disappeared-in-an-Array/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0474-Ones-and-Zeroes/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0509-Fibonacci-Number/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0516-Longest-Palindromic-Subsequence/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0518-Coin-Change-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0560-Subarray-Sum-Equals-K/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0567-Permutation-In-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0645-Set-Mismatch/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0646-Maximum-Length-of-Pair-Chain/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0673-Number-of-Longest-Increasing-Subsequence/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0680-Valid-Palindrome-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0704-Binary-Search/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0740-Delete-and-Earn/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0746-Min-Cost-Climbing-Stairs/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -299,6 +362,9 @@ Each solution is placed in a folder named by its problem number and title:
 │ └── Solution.swift
 │ └── Problem.md
 ├── 2966-Divide-Array-Into-Arrays-With-Max-Difference/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3085-Minimum-Deletions-to-Make-String-K-Special/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 3405-Count-the-Number-Of-Arrays-with-K-Matching-Adjacent-Elements/
@@ -418,10 +484,32 @@ Inside each folder:
 | 387       | First Unique Character in a String                                | ✅ Done |
 | 389       | Find the Difference                                               | ✅ Done |
 | 392       | Is Subsequence                                                    | ✅ Done |
+| 409       | Longest Palindrome                                                | ✅ Done |
+| 412       | Fizz Buzz                                                         | ✅ Done |
+| 438       | Find All Anagrams                                                 | ✅ Done |
+| 440       | K-th Smallest in Lexicographical Order                            | ✅ Done |
+| 442       | Find All Duplicates in an Array                                   | ✅ Done |
+| 448       | Find All Numbers Disappeared in an Array                          | ✅ Done |
+| 474       | Ones and Zeroes                                                   | ✅ Done |
+| 509       | Fibonacci Number                                                  | ✅ Done |
+| 516       | Longest Palindromic Subsequence                                   | ✅ Done |
+| 518       | Coin Change II                                                    | ✅ Done |
+| 560       | Subarray Sum Equals K                                             | ✅ Done |
+| 567       | Permutation In String                                             | ✅ Done |
+| 645       | Set Mismatch                                                      | ✅ Done |
+| 646       | Maximum Length of Pair Chain                                      | ✅ Done |
+| 673       | Number of Longest Increasing Subsequence                          | ✅ Done |
+| 680       | Valid Palindrome II                                               | ✅ Done |
+| 704       | Binary Search                                                     | ✅ Done |
+| 712       | Minimum ASCII Delete Sum for Two Strings                          | ✅ Done |
+| 714       | Best Time to Buy and Sell Stock with Transaction Fee              | ✅ Done |
+| 740       | Delete and Earn                                                   | ✅ Done |
+| 746       | Min Cost Climbing Stairs                                          | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
 | 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
 | 2966      | Divide Array Into Arrays With Max Difference                      | ✅ Done |
+| 3085      | Minimum Deletions to Make String K Special                        | ✅ Done |
 | 3405      | Count the Number of Arrays with K Matching Adjacent Elements      | ✅ Done |
 | 3443      | Maximum Manhattan Distance After K Changes                        | ✅ Done |
 | ...       |                                                                   | 🚧 WIP  |
