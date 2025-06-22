@@ -352,19 +352,142 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0746-Min-Cost-Climbing-Stairs/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0771-Jewels-and-Stones/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0790-Domino-and-Tromino-Tiling/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0852-Peak-Index-in-a-Mountain-Array/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0909-Snakes-and-Ladders/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0931-Minimum-Falling-Path-Sum/
+│ └── Solution.swift
+│ └── Problem.md
+├── 0983-Minimum-Cost-For-Tickets/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1011-Capacity-To-Ship-Packages-Within-D-Days/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1025-Divisor-Game/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1027-Longest-Arithmetic-Subsequence/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1035-Uncrossed-Lines/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1061-Lexicographically-Smallest-Equivalent-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1137-N-th-Tribonacci-Number/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1143-Longest-Common-Subsequence/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1218-Longest-Arithmetic-Subsequence-of-Given-Difference/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1298-Maximum-Candies-You-Can-Get-from-Boxes/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1480-Running-Sum-of-1d-Array/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1528-Shuffle-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1668-Maximum-Repeating-Substring/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1857-Largest-Color-Value-in-a-Directed-Graph/
+│ └── Solution.swift
+│ └── Problem.md
+├── 1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2016-Maximum-Difference-Between-Increasing-Elements/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2138-Divide-a-String-Into-Groups-of-Size-k/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2140-Solving-Questions-With-Brainpower/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 2294-Partition-Array-Such-That-Maximum-Difference-Is-K/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2359-Find-Closest-Node-to-Given-Two-Nodes/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2466-Count-Ways-To-Build-Good-Strings/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2560-House-Robber-IV/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2566-Maximum-Difference-by-Remapping-a-Digit/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2616-Minimize-the-Maximum-Difference-of-Pairs/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2894-Divisible-and-Non-divisible-Sums-Difference/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2900-Longest-Unequal-Adjacent-Groups-Subsequence-I/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2929-Distribute-Candies-Among-Children-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 2942-Find-Words-Containing-Character/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 2966-Divide-Array-Into-Arrays-With-Max-Difference/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3024-Type-of-Triangle/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3068-Find-the-Maximum-Sum-of-Node-Values/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3085-Minimum-Deletions-to-Make-String-K-Special/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3170-Lexicographically-Minimum-String-After-Removing-Stars/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3362-Zero-Array-Transformation-III/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3372-Maximize-the-Number-of-Target-Nodes-After-Connecting-Trees-I/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3373-Maximize-the-Number-of-Target-Nodes-After-Connecting-Trees-II/
+│ └── Solution.swift
+│ └── Problem.md
+├── 3403-Find-the-Lexicographically-Largest-String-From-the-Box-I/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 3405-Count-the-Number-Of-Arrays-with-K-Matching-Adjacent-Elements/
@@ -505,11 +628,52 @@ Inside each folder:
 | 714       | Best Time to Buy and Sell Stock with Transaction Fee              | ✅ Done |
 | 740       | Delete and Earn                                                   | ✅ Done |
 | 746       | Min Cost Climbing Stairs                                          | ✅ Done |
+| 771       | Jewels and Stones                                                 | ✅ Done |
+| 790       | Domino and Tromino Tiling                                         | ✅ Done |
+| 852       | Peak Index in a Mountain Array                                    | ✅ Done |
+| 909       | Snakes and Ladders                                                | ✅ Done |
+| 931       | Minimum Falling Path Sum                                          | ✅ Done |
+| 983       | Minimum Cost For Tickets                                          | ✅ Done |
+| 1011      | Capacity To Ship Packages Within D Days                           | ✅ Done |
+| 1025      | Divisor Game                                                      | ✅ Done |
+| 1027      | Longest Arithmetic Subsequence                                    | ✅ Done |
+| 1035      | Uncrossed Lines                                                   | ✅ Done |
+| 1061      | Lexicographically Smallest Equivalent String                      | ✅ Done |
+| 1137      | N-th Tribonacci Number                                            | ✅ Done |
+| 1143      | Longest Common Subsequence                                        | ✅ Done |
+| 1218      | Longest Arithmetic Subsequence of Given Difference                | ✅ Done |
+| 1298      | Maximum Candies You Can Get from Boxes                            | ✅ Done |
+| 1312      | Minimum Insertion Steps to Make a String Palindrome               | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
+| 1480      | Running Sum of 1d Array                                           | ✅ Done |
+| 1528      | Shuffle String                                                    | ✅ Done |
+| 1668      | Maximum Repeating Substring                                       | ✅ Done |
+| 1857      | Largest Color Value in a Directed Graph                           | ✅ Done |
+| 1964      | Find the Longest Valid Obstacle Course at Each Position           | ✅ Done |
+| 2016      | Maximum Difference Between Increasing Elements                    | ✅ Done |
+| 2131      | Longest Palindrome by Concatenating Two Letter Words              | ✅ Done |
+| 2138      | Divide a String Into Groups of Size k                             | ✅ Done |
+| 2140      | Solving Questions With Brainpower                                 | ✅ Done |
 | 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
+| 2359      | Find Closest Node to Given Two Nodes                              | ✅ Done |
+| 2434      | Using a Robot to Print the Lexicographically Smallest String      | ✅ Done |
+| 2466      | Count Ways to Build Good Strings                                  | ✅ Done |
+| 2560      | House Robber IV                                                   | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
+| 2616      | Minimize the Maximum Difference of Pairs                          | ✅ Done |
+| 2894      | Divisible and Non-divisible Sums Difference                       | ✅ Done |
+| 2900      | Longest Unequal Adjacent Groups Subsequence                       | ✅ Done |
+| 2929      | Distribute Candies Among Children II                              | ✅ Done |
+| 2942      | Find Words Containing Character                                   | ✅ Done |
 | 2966      | Divide Array Into Arrays With Max Difference                      | ✅ Done |
+| 3024      | Type of Triangle                                                  | ✅ Done |
+| 3068      | Find the Maximum Sum of Node Values                               | ✅ Done |
 | 3085      | Minimum Deletions to Make String K Special                        | ✅ Done |
+| 3170      | Lixicographically Minimum String After Removing Stars             | ✅ Done |
+| 3362      | Zero Array Transformation III                                     | ✅ Done |
+| 3372      | Maximize the Number of Target Nodes After Connecting Trees I      | ✅ Done |
+| 3373      | Maximize the Number of Target Nodes After Connecting Trees II     | ✅ Done |
+| 3403      | Find the Lexicographically Largest String From the Box I          | ✅ Done |
 | 3405      | Count the Number of Arrays with K Matching Adjacent Elements      | ✅ Done |
 | 3443      | Maximum Manhattan Distance After K Changes                        | ✅ Done |
 | ...       |                                                                   | 🚧 WIP  |
