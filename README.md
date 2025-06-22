@@ -400,6 +400,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1431-Kids-With-the-Greatest-Number-of-Candies/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -644,6 +647,7 @@ Inside each folder:
 | 1218      | Longest Arithmetic Subsequence of Given Difference                | ✅ Done |
 | 1298      | Maximum Candies You Can Get from Boxes                            | ✅ Done |
 | 1312      | Minimum Insertion Steps to Make a String Palindrome               | ✅ Done |
+| 1431      | Kids With the Greatest Number of Candies                          | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
 | 1480      | Running Sum of 1d Array                                           | ✅ Done |
 | 1528      | Shuffle String                                                    | ✅ Done |
