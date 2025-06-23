@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="banner.png" alt="SwiftDataStructures Banner" />
+</p>
+
 # SwiftLeetCode
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/Author-Grisha55-blue?style=for-the-badge)
+
 This repository contains my Swift solutions for various LeetCode problems.
 
 # 🚀 Swift LeetCode Solutions
