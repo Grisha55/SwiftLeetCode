@@ -436,6 +436,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2081-Sum-of-k-Mirror-Numbers/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2200-Find-All-K-Distant-Indices-in-an-Array/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words/
 │ └── Solution.swift
 │ └── Problem.md
@@ -671,6 +674,7 @@ Inside each folder:
 | 2131      | Longest Palindrome by Concatenating Two Letter Words              | ✅ Done |
 | 2138      | Divide a String Into Groups of Size k                             | ✅ Done |
 | 2140      | Solving Questions With Brainpower                                 | ✅ Done |
+| 2200      | Find All K-Distant Indices in an Array                            | ✅ Done |
 | 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
 | 2359      | Find Closest Node to Given Two Nodes                              | ✅ Done |
 | 2434      | Using a Robot to Print the Lexicographically Smallest String      | ✅ Done |
