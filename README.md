@@ -433,6 +433,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2016-Maximum-Difference-Between-Increasing-Elements/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2040-Kth-Smallest-Product-of-Two-Sorted-Arrays/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2081-Sum-of-k-Mirror-Numbers/
 │ └── Solution.swift
 │ └── Problem.md
@@ -670,6 +673,7 @@ Inside each folder:
 | 1857      | Largest Color Value in a Directed Graph                           | ✅ Done |
 | 1964      | Find the Longest Valid Obstacle Course at Each Position           | ✅ Done |
 | 2016      | Maximum Difference Between Increasing Elements                    | ✅ Done |
+| 2040      | Kth Smallest Product of Two Sorted Arrays                         | ✅ Done |
 | 2081      | Sum of k-Mirror Numbers                                           | ✅ Done |
 | 2131      | Longest Palindrome by Concatenating Two Letter Words              | ✅ Done |
 | 2138      | Divide a String Into Groups of Size k                             | ✅ Done |
