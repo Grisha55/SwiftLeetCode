@@ -430,6 +430,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2014-Longest-Subsequence-Rpeated-k-Times/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2016-Maximum-Difference-Between-Increasing-Elements/
 │ └── Solution.swift
 │ └── Problem.md
@@ -675,6 +678,7 @@ Inside each folder:
 | 1668      | Maximum Repeating Substring                                       | ✅ Done |
 | 1857      | Largest Color Value in a Directed Graph                           | ✅ Done |
 | 1964      | Find the Longest Valid Obstacle Course at Each Position           | ✅ Done |
+| 2014      | Longest Subsequence Repeated k Times                              | ✅ Done |
 | 2016      | Maximum Difference Between Increasing Elements                    | ✅ Done |
 | 2040      | Kth Smallest Product of Two Sorted Arrays                         | ✅ Done |
 | 2081      | Sum of k-Mirror Numbers                                           | ✅ Done |
