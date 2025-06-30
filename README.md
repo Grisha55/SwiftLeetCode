@@ -334,6 +334,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0567-Permutation-In-String/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0594-Longest-Harmonious-Subsequence/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0645-Set-Mismatch/
 │ └── Solution.swift
 │ └── Problem.md
@@ -652,6 +655,7 @@ Inside each folder:
 | 518       | Coin Change II                                                    | ✅ Done |
 | 560       | Subarray Sum Equals K                                             | ✅ Done |
 | 567       | Permutation In String                                             | ✅ Done |
+| 594       | Longest Harmnious Subsequence                                     | ✅ Done |
 | 645       | Set Mismatch                                                      | ✅ Done |
 | 646       | Maximum Length of Pair Chain                                      | ✅ Done |
 | 673       | Number of Longest Increasing Subsequence                          | ✅ Done |
