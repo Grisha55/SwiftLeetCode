@@ -514,6 +514,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3170-Lexicographically-Minimum-String-After-Removing-Stars/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3330-Find-the-Original-Typed-String-I/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3362-Zero-Array-Transformation-III/
 │ └── Solution.swift
 │ └── Problem.md
@@ -715,6 +718,7 @@ Inside each folder:
 | 3068      | Find the Maximum Sum of Node Values                               | ✅ Done |
 | 3085      | Minimum Deletions to Make String K Special                        | ✅ Done |
 | 3170      | Lixicographically Minimum String After Removing Stars             | ✅ Done |
+| 3330      | Find the Original Typed String I                                  | ✅ Done |
 | 3362      | Zero Array Transformation III                                     | ✅ Done |
 | 3372      | Maximize the Number of Target Nodes After Connecting Trees I      | ✅ Done |
 | 3373      | Maximize the Number of Target Nodes After Connecting Trees II     | ✅ Done |
