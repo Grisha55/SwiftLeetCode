@@ -517,7 +517,7 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3304-Find-the-K-th-Character-in-String-Game-I/
 │ └── Solution.swift
 │ └── Problem.md
-├── 3307-Find-the-K-th-Character-in-String-Game-Ii/
+├── 3307-Find-the-K-th-Character-in-String-Game-II/
 │ └── Solution.swift
 │ └── Problem.md
 ├── 3330-Find-the-Original-Typed-String-I/
