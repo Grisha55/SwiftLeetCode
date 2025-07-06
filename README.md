@@ -436,6 +436,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1857-Largest-Color-Value-in-a-Directed-Graph/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1865-Finding-Pairs-With-a-Certain-Sum/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/
 │ └── Solution.swift
 │ └── Problem.md
@@ -704,6 +707,7 @@ Inside each folder:
 | 1528      | Shuffle String                                                    | ✅ Done |
 | 1668      | Maximum Repeating Substring                                       | ✅ Done |
 | 1857      | Largest Color Value in a Directed Graph                           | ✅ Done |
+| 1865      | Finding Pairs With a Certain Sum                                  | ✅ Done |
 | 1964      | Find the Longest Valid Obstacle Course at Each Position           | ✅ Done |
 | 2014      | Longest Subsequence Repeated k Times                              | ✅ Done |
 | 2016      | Maximum Difference Between Increasing Elements                    | ✅ Done |
