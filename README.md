@@ -556,6 +556,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3439-Reschedule-Meetings-for-Maximum-Free-Time-I/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3440-Reschedule-Meetings-for-Maximum-Free-Time-II/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3443-Maximum-Manhattan-Distance-After-K-Changes/
 │ └── Solution.swift
 │ └── Problem.md
@@ -756,6 +759,7 @@ Inside each folder:
 | 3403      | Find the Lexicographically Largest String From the Box I          | ✅ Done |
 | 3405      | Count the Number of Arrays with K Matching Adjacent Elements      | ✅ Done |
 | 3439      | Reschedule Meetings for Maximum Free Time I                       | ✅ Done |
+| 3440      | Reschedule Meetings for Maximum Free Time II                      | ✅ Done |
 | 3443      | Maximum Manhattan Distance After K Changes                        | ✅ Done |
 | ...       |                                                                   | 🚧 WIP  |
 
