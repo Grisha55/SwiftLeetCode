@@ -490,6 +490,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2402-Meeting-Rooms-III/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2410-Maximum-Mathching-of-Players-With-Trainers/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/
 │ └── Solution.swift
 │ └── Problem.md
@@ -743,6 +746,7 @@ Inside each folder:
 | 2311      | Longest Binary Subsequence Less Than or Equal to K                | ✅ Done |
 | 2359      | Find Closest Node to Given Two Nodes                              | ✅ Done |
 | 2402      | Meeting Rooms III                                                 | ✅ Done |
+| 2410      | Maximum-Mathching-of-Players-With-Trainers                        | ✅ Done |
 | 2434      | Using a Robot to Print the Lexicographically Smallest String      | ✅ Done |
 | 2466      | Count Ways to Build Good Strings                                  | ✅ Done |
 | 2560      | House Robber IV                                                   | ✅ Done |
