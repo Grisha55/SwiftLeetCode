@@ -406,6 +406,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1218-Longest-Arithmetic-Subsequence-of-Given-Difference/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1290-Convert-Binary-Number-in-a-Linked-List-to-Integer/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1298-Maximum-Candies-You-Can-Get-from-Boxes/
 │ └── Solution.swift
 │ └── Problem.md
@@ -718,6 +721,7 @@ Inside each folder:
 | 1137      | N-th Tribonacci Number                                            | ✅ Done |
 | 1143      | Longest Common Subsequence                                        | ✅ Done |
 | 1218      | Longest Arithmetic Subsequence of Given Difference                | ✅ Done |
+| 1290      | Convert Binary Number in a Linked List to Integer                 | ✅ Done |
 | 1298      | Maximum Candies You Can Get from Boxes                            | ✅ Done |
 | 1312      | Minimum Insertion Steps to Make a String Palindrome               | ✅ Done |
 | 1353      | Maximum Number of Events That Can Be Attended                     | ✅ Done |
