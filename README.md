@@ -541,6 +541,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3170-Lexicographically-Minimum-String-After-Removing-Stars/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3201-Find-the-Maximum-Length-of-Valid-Subsequence-I/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3304-Find-the-K-th-Character-in-String-Game-I/
 │ └── Solution.swift
 │ └── Problem.md
@@ -769,6 +772,7 @@ Inside each folder:
 | 3085      | Minimum Deletions to Make String K Special                        | ✅ Done |
 | 3136      | Valid Word                                                        | ✅ Done |
 | 3170      | Lixicographically Minimum String After Removing Stars             | ✅ Done |
+| 3201      | Find the Maximum Length of Valid Subsequence I                    | ✅ Done |
 | 3304      | Find the K-th Character in String Game I                          | ✅ Done |
 | 3307      | Find the K-th Character in String Game II                         | ✅ Done |
 | 3330      | Find the Original Typed String I                                  | ✅ Done |
