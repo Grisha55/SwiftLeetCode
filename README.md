@@ -49,6 +49,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0010-Regular-Expression-Matching/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0012-Integer-to-Roman/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0013-Roman-To-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -611,6 +614,7 @@ Inside each folder:
 | 8         | String to Integer (atoi)                                          | ✅ Done |
 | 9         | Palindrome Number                                                 | ✅ Done |
 | 10        | Regular Expression Matching                                       | ✅ Done |
+| 12        | Integer to Roman                                                  | ✅ Done |
 | 13        | Roman to Integer                                                  | ✅ Done |
 | 14        | Longest Common Prefix                                             | ✅ Done |
 | 15        | 3Sum                                                              | ✅ Done |
