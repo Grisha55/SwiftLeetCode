@@ -481,6 +481,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2140-Solving-Questions-With-Brainpower/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2163-Minimum-Difference-in-Sums-After-Removal-of-Elements/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2200-Find-All-K-Distant-Indices-in-an-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -758,6 +761,7 @@ Inside each folder:
 | 2131      | Longest Palindrome by Concatenating Two Letter Words              | ✅ Done |
 | 2138      | Divide a String Into Groups of Size k                             | ✅ Done |
 | 2140      | Solving Questions With Brainpower                                 | ✅ Done |
+| 2163      | Minimum Difference in Sums After Removal of Elements              | ✅ Done |
 | 2200      | Find All K-Distant Indices in an Array                            | ✅ Done |
 | 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
 | 2311      | Longest Binary Subsequence Less Than or Equal to K                | ✅ Done |
