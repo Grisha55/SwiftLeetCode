@@ -61,6 +61,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0015-3Sum/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0016-3Sum-Closest/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0017-Letter-Combinations-of-a-Phone-Number/
 │ └── Solution.swift
 │ └── Problem.md
@@ -627,6 +630,7 @@ Inside each folder:
 | 13        | Roman to Integer                                                  | ✅ Done |
 | 14        | Longest Common Prefix                                             | ✅ Done |
 | 15        | 3Sum                                                              | ✅ Done |
+| 16        | 3Sum Closest                                                      | ✅ Done |
 | 17        | Letter Combinations of a Phone Number                             | ✅ Done |
 | 20        | Valid Parentheses                                                 | ✅ Done |
 | 21        | Merge Two Sorted Lists                                            | ✅ Done |
