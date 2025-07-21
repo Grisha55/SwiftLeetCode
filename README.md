@@ -463,6 +463,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1948-Delete-Duplicate-Folders-in-System/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1957-Delete-Characters-to-Make-Fancy-String/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/
 │ └── Solution.swift
 │ └── Problem.md
@@ -764,6 +767,7 @@ Inside each folder:
 | 1865      | Finding Pairs With a Certain Sum                                  | ✅ Done |
 | 1900      | The Earliest and Latest Rounds Where Players Compete              | ✅ Done |
 | 1948      | Delete Duplicate Folders in System                                | ✅ Done |
+| 1957      | Delete Characters to Make Fancy String                            | ✅ Done |
 | 1964      | Find the Longest Valid Obstacle Course at Each Position           | ✅ Done |
 | 2014      | Longest Subsequence Repeated k Times                              | ✅ Done |
 | 2016      | Maximum Difference Between Increasing Elements                    | ✅ Done |
