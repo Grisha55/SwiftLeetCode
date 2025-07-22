@@ -448,6 +448,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1668-Maximum-Repeating-Substring/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1695-Maximum-Erasure-Value/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1751-Maximum-Number-of-Events-That-Can-Be-Attended-II/
 │ └── Solution.swift
 │ └── Problem.md
@@ -762,6 +765,7 @@ Inside each folder:
 | 1498      | Number of Subsequences That Satisfy the Given Sum Condition       | ✅ Done |
 | 1528      | Shuffle String                                                    | ✅ Done |
 | 1668      | Maximum Repeating Substring                                       | ✅ Done |
+| 1695      | Maximum Erasure Value                                             | ✅ Done |
 | 1751      | Maximum Number of Events That Can Be Attended II                  | ✅ Done |
 | 1857      | Largest Color Value in a Directed Graph                           | ✅ Done |
 | 1865      | Finding Pairs With a Certain Sum                                  | ✅ Done |
