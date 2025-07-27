@@ -505,6 +505,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2200-Find-All-K-Distant-Indices-in-an-Array/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2210-Count-Hills-and-Valleys-in-an-Array/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2294-Partition-Array-Such-That-Maximum-Difference-Is-K/
 │ └── Solution.swift
 │ └── Problem.md
@@ -796,6 +799,7 @@ Inside each folder:
 | 2140      | Solving Questions With Brainpower                                 | ✅ Done |
 | 2163      | Minimum Difference in Sums After Removal of Elements              | ✅ Done |
 | 2200      | Find All K-Distant Indices in an Array                            | ✅ Done |
+| 2210      | Count Hills and Valleys in an Array                               | ✅ Done |
 | 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
 | 2311      | Longest Binary Subsequence Less Than or Equal to K                | ✅ Done |
 | 2322      | Minimum Score After Removals on a Tree                            | ✅ Done |
