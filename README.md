@@ -484,6 +484,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2040-Kth-Smallest-Product-of-Two-Sorted-Arrays/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2044-Count-Number-of-Maximum-Bitwise-OR-Subsets/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2081-Sum-of-k-Mirror-Numbers/
 │ └── Solution.swift
 │ └── Problem.md
@@ -792,6 +795,7 @@ Inside each folder:
 | 2014      | Longest Subsequence Repeated k Times                              | ✅ Done |
 | 2016      | Maximum Difference Between Increasing Elements                    | ✅ Done |
 | 2040      | Kth Smallest Product of Two Sorted Arrays                         | ✅ Done |
+| 2044      | Count Number of Maximum Bitwise-OR Subsets                        | ✅ Done |
 | 2081      | Sum of k-Mirror Numbers                                           | ✅ Done |
 | 2099      | Find Subsequence of Length K With the Largest Sum                 | ✅ Done |
 | 2131      | Longest Palindrome by Concatenating Two Letter Words              | ✅ Done |
