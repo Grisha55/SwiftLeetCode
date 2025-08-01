@@ -151,6 +151,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0096-Unique-Binary-Search-Trees/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0100-Same-Tree/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0115-Distinct-Subsequences/
 │ └── Solution.swift
 │ └── Problem.md
@@ -696,6 +699,7 @@ Inside each folder:
 | 94        | Binary Tree Inorder Traversal                                     | ✅ Done |
 | 95        | Unique Binary Search Trees II                                     | ✅ Done |
 | 96        | Unique Binary Search Trees                                        | ✅ Done |
+| 100       | Same Tree                                                         | ✅ Done |
 | 115       | Distinct Subsequences                                             | ✅ Done |
 | 118       | Pascal's Triangle                                                 | ✅ Done |
 | 119       | Pascal's Triangle II                                              | ✅ Done |
