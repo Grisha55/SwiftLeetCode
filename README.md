@@ -553,6 +553,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2560-House-Robber-IV/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2561-Rearranging-Fruits/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2566-Maximum-Difference-by-Remapping-a-Digit/
 │ └── Solution.swift
 │ └── Problem.md
@@ -833,6 +836,7 @@ Inside each folder:
 | 2434      | Using a Robot to Print the Lexicographically Smallest String      | ✅ Done |
 | 2466      | Count Ways to Build Good Strings                                  | ✅ Done |
 | 2560      | House Robber IV                                                   | ✅ Done |
+| 2561      | Rearranging Fruits                                                | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
 | 2616      | Minimize the Maximum Difference of Pairs                          | ✅ Done |
 | 2894      | Divisible and Non-divisible Sums Difference                       | ✅ Done |
