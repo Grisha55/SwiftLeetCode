@@ -502,6 +502,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2099-Find-Subsequence-of-Length-K-With-the-Largest-Sum/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words/
 │ └── Solution.swift
 │ └── Problem.md
@@ -819,6 +822,7 @@ Inside each folder:
 | 2044      | Count Number of Maximum Bitwise-OR Subsets                        | ✅ Done |
 | 2081      | Sum of k-Mirror Numbers                                           | ✅ Done |
 | 2099      | Find Subsequence of Length K With the Largest Sum                 | ✅ Done |
+| 2106      | Maximum Fruits Harvested After at Most K Steps                    | ✅ Done |
 | 2131      | Longest Palindrome by Concatenating Two Letter Words              | ✅ Done |
 | 2138      | Divide a String Into Groups of Size k                             | ✅ Done |
 | 2140      | Solving Questions With Brainpower                                 | ✅ Done |
