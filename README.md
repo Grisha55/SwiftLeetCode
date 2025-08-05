@@ -640,6 +640,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3443-Maximum-Manhattan-Distance-After-K-Changes/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3477-Fruits-Into-Baskets-II/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3480-Maximize-Subarrays-After-Removing-One-Conflicting-Pair/
 │ └── Solution.swift
 │ └── Problem.md
@@ -871,6 +874,7 @@ Inside each folder:
 | 3439      | Reschedule Meetings for Maximum Free Time I                       | ✅ Done |
 | 3440      | Reschedule Meetings for Maximum Free Time II                      | ✅ Done |
 | 3443      | Maximum Manhattan Distance After K Changes                        | ✅ Done |
+| 3477      | Fruits Into Baskets II                                            | ✅ Done |
 | 3480      | Maximize Subarrays After Removing One Conflicting Pair            | ✅ Done |
 | 3487      | Maximum Unique Subarray Sum After Deletion                        | ✅ Done |
 | ...       |                                                                   | 🚧 WIP  |
