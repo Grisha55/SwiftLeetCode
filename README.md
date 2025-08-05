@@ -232,6 +232,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0221-Maximal-Square/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0229-Majority-Element-II/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0231-Power-of-Two/
 │ └── Solution.swift
 │ └── Problem.md
@@ -738,6 +741,7 @@ Inside each folder:
 | 213       | House Robber II                                                   | ✅ Done |
 | 217       | Contains Duplicate                                                | ✅ Done |
 | 221       | Maximal Square                                                    | ✅ Done |
+| 229       | Majority Element II                                               | ✅ Done |
 | 231       | Power of Two                                                      | ✅ Done |
 | 232       | Implement Queue using Stacks                                      | ✅ Done |
 | 238       | Product of Array Except Self                                      | ✅ Done |
