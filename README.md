@@ -280,6 +280,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0345-Reverse-Vowels-of-a-String/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0347-Top-K-Frequent-Elements/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0349-Intersection-of-Two-Arrays/
 │ └── Solution.swift
 │ └── Problem.md
@@ -766,6 +769,7 @@ Inside each folder:
 | 342       | Power of Four                                                     | ✅ Done |
 | 344       | Reverse String                                                    | ✅ Done |
 | 345       | Reverse Vowels of a String                                        | ✅ Done |
+| 347       | Top K Frequent Elements                                           | ✅ Done |
 | 349       | Intersection of Two Arrays                                        | ✅ Done |
 | 350       | Intersection of Two Arrays II                                     | ✅ Done |
 | 354       | Russian Doll Envelopes                                            | ✅ Done |
