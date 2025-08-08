@@ -427,6 +427,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1061-Lexicographically-Smallest-Equivalent-String/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1090-Largest-Values-From-Labels/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1137-N-th-Tribonacci-Number/
 │ └── Solution.swift
 │ └── Problem.md
@@ -833,6 +836,7 @@ Inside each folder:
 | 1027      | Longest Arithmetic Subsequence                                    | ✅ Done |
 | 1035      | Uncrossed Lines                                                   | ✅ Done |
 | 1061      | Lexicographically Smallest Equivalent String                      | ✅ Done |
+| 1090      | Largest Values From Labels                                        | ✅ Done |
 | 1137      | N-th Tribonacci Number                                            | ✅ Done |
 | 1143      | Longest Common Subsequence                                        | ✅ Done |
 | 1218      | Longest Arithmetic Subsequence of Given Difference                | ✅ Done |
