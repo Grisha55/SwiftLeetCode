@@ -385,6 +385,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0790-Domino-and-Tromino-Tiling/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0808-Soup-Servings/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0852-Peak-Index-in-a-Mountain-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -798,6 +801,7 @@ Inside each folder:
 | 746       | Min Cost Climbing Stairs                                          | ✅ Done |
 | 771       | Jewels and Stones                                                 | ✅ Done |
 | 790       | Domino and Tromino Tiling                                         | ✅ Done |
+| 808       | Soup Servings                                                     | ✅ Done |
 | 852       | Peak Index in a Mountain Array                                    | ✅ Done |
 | 898       | Bitwise ORs of Subarrays                                          | ✅ Done |
 | 904       | Fruit Into Baskets                                                | ✅ Done |
