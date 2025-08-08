@@ -577,6 +577,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2566-Maximum-Difference-by-Remapping-a-Digit/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2586-Count-the-Number-of-Vowel-Strings-in-Range/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2616-Minimize-the-Maximum-Difference-of-Pairs/
 │ └── Solution.swift
 │ └── Problem.md
@@ -871,6 +874,7 @@ Inside each folder:
 | 2560      | House Robber IV                                                   | ✅ Done |
 | 2561      | Rearranging Fruits                                                | ✅ Done |
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
+| 2586      | Count the Number of Vowel Strings in Range                        | ✅ Done |
 | 2616      | Minimize the Maximum Difference of Pairs                          | ✅ Done |
 | 2894      | Divisible and Non-divisible Sums Difference                       | ✅ Done |
 | 2900      | Longest Unequal Adjacent Groups Subsequence                       | ✅ Done |
