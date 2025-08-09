@@ -628,6 +628,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3136-Valid-Word/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3137-Minimum-Number-of-Operations-to-Make-Word-K-Periodic/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3170-Lexicographically-Minimum-String-After-Removing-Stars/
 │ └── Solution.swift
 │ └── Problem.md
@@ -909,6 +912,7 @@ Inside each folder:
 | 3068      | Find the Maximum Sum of Node Values                               | ✅ Done |
 | 3085      | Minimum Deletions to Make String K Special                        | ✅ Done |
 | 3136      | Valid Word                                                        | ✅ Done |
+| 3137      | Minimum Number of Operations to Make Word K-Periodic              | ✅ Done |
 | 3170      | Lixicographically Minimum String After Removing Stars             | ✅ Done |
 | 3201      | Find the Maximum Length of Valid Subsequence I                    | ✅ Done |
 | 3202      | Find the Maximum Length of Valid Subsequence II                   | ✅ Done |
