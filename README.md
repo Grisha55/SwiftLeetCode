@@ -409,6 +409,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0931-Minimum-Falling-Path-Sum/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0945-Minimum-Increment-to-Make-Array-Unique/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0983-Minimum-Cost-For-Tickets/
 │ └── Solution.swift
 │ └── Problem.md
@@ -833,6 +836,7 @@ Inside each folder:
 | 904       | Fruit Into Baskets                                                | ✅ Done |
 | 909       | Snakes and Ladders                                                | ✅ Done |
 | 931       | Minimum Falling Path Sum                                          | ✅ Done |
+| 945       | Minimum Increment to Make Array Unique                            | ✅ Done |
 | 983       | Minimum Cost For Tickets                                          | ✅ Done |
 | 1011      | Capacity To Ship Packages Within D Days                           | ✅ Done |
 | 1025      | Divisor Game                                                      | ✅ Done |
