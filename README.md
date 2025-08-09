@@ -382,6 +382,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0746-Min-Cost-Climbing-Stairs/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0767-Reorganize-String/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0771-Jewels-and-Stones/
 │ └── Solution.swift
 │ └── Problem.md
@@ -833,6 +836,7 @@ Inside each folder:
 | 714       | Best Time to Buy and Sell Stock with Transaction Fee              | ✅ Done |
 | 740       | Delete and Earn                                                   | ✅ Done |
 | 746       | Min Cost Climbing Stairs                                          | ✅ Done |
+| 767       | Reorganize String                                                 | ✅ Done |
 | 771       | Jewels and Stones                                                 | ✅ Done |
 | 790       | Domino and Tromino Tiling                                         | ✅ Done |
 | 808       | Soup Servings                                                     | ✅ Done |
