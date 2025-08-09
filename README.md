@@ -400,6 +400,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0898-Bitwise-ORs-of-Subarrays/
 │ └── Solution.swift
 │ └── Problem.md
+├── 900-RLE-Iterator/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0904-Fruit-Into-Baskets/
 │ └── Solution.swift
 │ └── Problem.md
@@ -836,6 +839,7 @@ Inside each folder:
 | 852       | Peak Index in a Mountain Array                                    | ✅ Done |
 | 869       | Reordered Power of 2                                              | ✅ Done |
 | 898       | Bitwise ORs of Subarrays                                          | ✅ Done |
+| 900       | RLE Iterator                                                      | ✅ Done |
 | 904       | Fruit Into Baskets                                                | ✅ Done |
 | 909       | Snakes and Ladders                                                | ✅ Done |
 | 931       | Minimum Falling Path Sum                                          | ✅ Done |
