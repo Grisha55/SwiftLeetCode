@@ -457,6 +457,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1233-Remove-Sub-Folders-from-the-Filesystem/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1260-Shift-2D-Grid/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1290-Convert-Binary-Number-in-a-Linked-List-to-Integer/
 │ └── Solution.swift
 │ └── Problem.md
@@ -870,6 +873,7 @@ Inside each folder:
 | 1143      | Longest Common Subsequence                                        | ✅ Done |
 | 1218      | Longest Arithmetic Subsequence of Given Difference                | ✅ Done |
 | 1233      | Remove Sub-Folders from the Filesystem                            | ✅ Done |
+| 1260      | Shift 2D Grid                                                     | ✅ Done |
 | 1290      | Convert Binary Number in a Linked List to Integer                 | ✅ Done |
 | 1298      | Maximum Candies You Can Get from Boxes                            | ✅ Done |
 | 1312      | Minimum Insertion Steps to Make a String Palindrome               | ✅ Done |
