@@ -361,6 +361,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0646-Maximum-Length-of-Pair-Chain/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0661-Image-Smoother/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0673-Number-of-Longest-Increasing-Subsequence/
 │ └── Solution.swift
 │ └── Problem.md
@@ -832,6 +835,7 @@ Inside each folder:
 | 594       | Longest Harmnious Subsequence                                     | ✅ Done |
 | 645       | Set Mismatch                                                      | ✅ Done |
 | 646       | Maximum Length of Pair Chain                                      | ✅ Done |
+| 661       | Image Smoother                                                    | ✅ Done |
 | 673       | Number of Longest Increasing Subsequence                          | ✅ Done |
 | 680       | Valid Palindrome II                                               | ✅ Done |
 | 704       | Binary Search                                                     | ✅ Done |
