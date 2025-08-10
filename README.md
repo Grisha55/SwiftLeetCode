@@ -130,6 +130,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0072-Edit-Distance/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0073-Set-Matrix-Zeroes/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0076-Minimum-Window-Substring/
 │ └── Solution.swift
 │ └── Problem.md
@@ -758,6 +761,7 @@ Inside each folder:
 | 69        | Sqrt X                                                            | ✅ Done |
 | 70        | Climbing Stairs                                                   | ✅ Done |
 | 72        | Edit Distance                                                     | ✅ Done |
+| 73        | Set Matrix Zeroes                                                 | ✅ Done |
 | 76        | Minimum Window Substring                                          | ✅ Done |
 | 83        | Remove Duplicates from Sorted List                                | ✅ Done |
 | 88        | Merge Sorted Array                                                | ✅ Done |
