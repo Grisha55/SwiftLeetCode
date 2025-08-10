@@ -559,6 +559,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2200-Find-All-K-Distant-Indices-in-an-Array/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2202-Convert-1D-Array-Into-2D-Array/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2210-Count-Hills-and-Valleys-in-an-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -907,6 +910,7 @@ Inside each folder:
 | 2150      | Find All Lonely Numbers in the Array                              | ✅ Done |
 | 2163      | Minimum Difference in Sums After Removal of Elements              | ✅ Done |
 | 2200      | Find All K-Distant Indices in an Array                            | ✅ Done |
+| 2202      | Convert 1D Array Into 2D Array                                    | ✅ Done |
 | 2210      | Count Hills and Valleys in an Array                               | ✅ Done |
 | 2244      | Minimum Rounds to Complete All Tasks                              | ✅ Done |
 | 2255      | Find Players With Zero or One Losses                              | ✅ Done |
