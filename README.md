@@ -106,6 +106,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0058-Length-of-Last-Word/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0059-Spiral-Matrix-II/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0062-Unique-Paths/
 │ └── Solution.swift
 │ └── Problem.md
@@ -774,6 +777,7 @@ Inside each folder:
 | 49        | Group Anagrams                                                    | ✅ Done |
 | 53        | Maximum Subarray                                                  | ✅ Done |
 | 58        | Length of Last Word                                               | ✅ Done |
+| 59        | Spiral Matrix II                                                  | ✅ Done |
 | 62        | Unique Paths                                                      | ✅ Done |
 | 63        | Unique Paths II                                                   | ✅ Done |
 | 64        | Minimum Path Sum                                                  | ✅ Done |
