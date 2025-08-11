@@ -406,6 +406,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0861-Score-After-Flipping-Matrix/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0867-Transpose-Matrix/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0869-Reordered-Power-of-2/
 │ └── Solution.swift
 │ └── Problem.md
@@ -871,6 +874,7 @@ Inside each folder:
 | 808       | Soup Servings                                                     | ✅ Done |
 | 852       | Peak Index in a Mountain Array                                    | ✅ Done |
 | 861       | Score After Flipping Matrix                                       | ✅ Done |
+| 867       | Transpose Matrix                                                  | ✅ Done |
 | 869       | Reordered Power of 2                                              | ✅ Done |
 | 898       | Bitwise ORs of Subarrays                                          | ✅ Done |
 | 900       | RLE Iterator                                                      | ✅ Done |
