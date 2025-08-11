@@ -598,6 +598,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2419-Longest-Subarray-With-Maximum-Bitwise-AND/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2428-Maximum-Sum-of-an-Hourglass/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/
 │ └── Solution.swift
 │ └── Problem.md
@@ -932,6 +935,7 @@ Inside each folder:
 | 2410      | Maximum-Mathching-of-Players-With-Trainers                        | ✅ Done |
 | 2411      | Smallest Subarrays With Maximum Bitwise OR                        | ✅ Done |
 | 2419      | Longest Subarray With Maximum Bitwise AND                         | ✅ Done |
+| 2428      | Maximum Sum of an Hourglass                                       | ✅ Done |
 | 2434      | Using a Robot to Print the Lexicographically Smallest String      | ✅ Done |
 | 2438      | Range Product Queries of Powers                                   | ✅ Done |
 | 2466      | Count Ways to Build Good Strings                                  | ✅ Done |
