@@ -718,6 +718,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3487-Maximum-Unique-Subarray-Sum-After-Deletion/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3537-Fill-a-Special-Grid/
+│ └── Solution.swift
+│ └── Problem.md
 ```
 
 Inside each folder:
@@ -969,6 +972,7 @@ Inside each folder:
 | 3479      | Fruits Into Baskets III                                           | ✅ Done |
 | 3480      | Maximize Subarrays After Removing One Conflicting Pair            | ✅ Done |
 | 3487      | Maximum Unique Subarray Sum After Deletion                        | ✅ Done |
+| 3537      | Fill a Special Grid                                               | ✅ Done |
 | ...       |                                                                   | 🚧 WIP  |
 
 You can track my progress on [leetcode.com](https://github.com/Grisha55).
