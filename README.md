@@ -652,6 +652,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3024-Type-of-Triangle/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3033-Modify-the-Matrix/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3039-Apply-Operations-to-Make-String-Empty/
 │ └── Solution.swift
 │ └── Problem.md
@@ -959,6 +962,7 @@ Inside each folder:
 | 2942      | Find Words Containing Character                                   | ✅ Done |
 | 2966      | Divide Array Into Arrays With Max Difference                      | ✅ Done |
 | 3024      | Type of Triangle                                                  | ✅ Done |
+| 3033      | Modify the Matrix                                                 | ✅ Done |
 | 3039      | Apply Operations to Make String Empty                             | ✅ Done |
 | 3068      | Find the Maximum Sum of Node Values                               | ✅ Done |
 | 3085      | Minimum Deletions to Make String K Special                        | ✅ Done |
