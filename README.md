@@ -205,6 +205,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0155-Min-Stack/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0160-Intersection-of-Two-Linked-Lists/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0167-Two-Sum-II-Input-Array-Is-Sorted/
 │ └── Solution.swift
 │ └── Problem.md
@@ -825,6 +828,7 @@ Inside each folder:
 | 136       | Single Number                                                     | ✅ Done |
 | 139       | Word Break                                                        | ✅ Done |
 | 155       | Min Stack                                                         | ✅ Done |
+| 160       | Intersection of Two Linked Lists                                  | ✅ Done |
 | 167       | Two Sum II - Input Array Is Sorted                                | ✅ Done |
 | 168       | Excel Sheet Column Title                                          | ✅ Done |
 | 169       | Majority Element                                                  | ✅ Done |
