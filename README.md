@@ -634,6 +634,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2616-Minimize-the-Maximum-Difference-of-Pairs/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2787-Ways-to-Express-an-Integer-as-Sum-of-Powers/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2870-Minimum-Number-of-Operations-to-Make-Array-Empty/
 │ └── Solution.swift
 │ └── Problem.md
@@ -959,6 +962,7 @@ Inside each folder:
 | 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
 | 2586      | Count the Number of Vowel Strings in Range                        | ✅ Done |
 | 2616      | Minimize the Maximum Difference of Pairs                          | ✅ Done |
+| 2787      | Ways to Express an Interger as Sum of Powers                      | ✅ Done |
 | 2870      | Minimum Number of Operations to Make Array Empty                  | ✅ Done |
 | 2894      | Divisible and Non-divisible Sums Difference                       | ✅ Done |
 | 2900      | Longest Unequal Adjacent Groups Subsequence                       | ✅ Done |
