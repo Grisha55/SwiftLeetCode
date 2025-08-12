@@ -520,6 +520,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1865-Finding-Pairs-With-a-Certain-Sum/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1877-Minimize-Maximum-Pair-Sum-in-Array/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1900-The-Earliest-and-Latest-Rounds-Where-Players-Compete/
 │ └── Solution.swift
 │ └── Problem.md
@@ -924,6 +927,7 @@ Inside each folder:
 | 1751      | Maximum Number of Events That Can Be Attended II                  | ✅ Done |
 | 1857      | Largest Color Value in a Directed Graph                           | ✅ Done |
 | 1865      | Finding Pairs With a Certain Sum                                  | ✅ Done |
+| 1877      | Minimize Maximum Pair Sum in Array                                | ✅ Done |
 | 1900      | The Earliest and Latest Rounds Where Players Compete              | ✅ Done |
 | 1948      | Delete Duplicate Folders in System                                | ✅ Done |
 | 1957      | Delete Characters to Make Fancy String                            | ✅ Done |
