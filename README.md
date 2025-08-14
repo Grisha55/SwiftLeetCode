@@ -613,6 +613,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2359-Find-Closest-Node-to-Given-Two-Nodes/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2367-Number-of-Arithmetic-Triplets/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2402-Meeting-Rooms-III/
 │ └── Solution.swift
 │ └── Problem.md
@@ -978,6 +981,7 @@ Inside each folder:
 | 2311      | Longest Binary Subsequence Less Than or Equal to K            | ✅ Done |
 | 2322      | Minimum Score After Removals on a Tree                        | ✅ Done |
 | 2359      | Find Closest Node to Given Two Nodes                          | ✅ Done |
+| 2367      | Number of Arithmetic Triplets                                 | ✅ Done |
 | 2402      | Meeting Rooms III                                             | ✅ Done |
 | 2410      | Maximum-Mathching-of-Players-With-Trainers                    | ✅ Done |
 | 2411      | Smallest Subarrays With Maximum Bitwise OR                    | ✅ Done |
