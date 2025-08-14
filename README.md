@@ -11,13 +11,16 @@
 This repository contains my Swift solutions for various LeetCode problems.
 
 # 🚀 Swift LeetCode Solutions
+
 A personal collection of LeetCode problems solved in Swift.  
 This repo is part of my journey to master data structures, algorithms, and technical interviews.
 
 ---
 
 ## 📁 Repository Structure
+
 Each solution is placed in a folder named by its problem number and title:
+
 ```
 ├── 0001-Two-Sum/
 │ └── Solution.swift
@@ -652,6 +655,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2787-Ways-to-Express-an-Integer-as-Sum-of-Powers/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2824-Count-Pairs-Whose-Sum-is-Less-than-Target/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2870-Minimum-Number-of-Operations-to-Make-Array-Empty/
 │ └── Solution.swift
 │ └── Problem.md
@@ -757,273 +763,278 @@ Each solution is placed in a folder named by its problem number and title:
 ```
 
 Inside each folder:
+
 - `Solution.swift`: Swift code with inline comments.
 - `Problem.md` : Short problem description and approach.
 
 ---
 
 ## 🎯 Goal
-- Build strong problem-solving skills in Swift  
-- Prepare for interviews (FAANG, startups, etc.)  
-- Create a structured archive of solutions  
+
+- Build strong problem-solving skills in Swift
+- Prepare for interviews (FAANG, startups, etc.)
+- Create a structured archive of solutions
 
 ---
 
 ## ✅ Problem Progress
-| Problem # | Title                                                             | Status |
-|-----------|-------------------------------------------------------------------|--------|
-| 1         | Two Sum                                                           | ✅ Done |
-| 2         | Add Two Numbers                                                   | ✅ Done |
-| 3         | Longest Substring Without Repeating Characters                    | ✅ Done |
-| 4         | Median of Two Sorted Arrays                                       | ✅ Done |
-| 5         | Longest Palindromic Substring                                     | ✅ Done |
-| 6         | Zigzag Conversion                                                 | ✅ Done |
-| 7         | Reverse Integer                                                   | ✅ Done |
-| 8         | String to Integer (atoi)                                          | ✅ Done |
-| 9         | Palindrome Number                                                 | ✅ Done |
-| 10        | Regular Expression Matching                                       | ✅ Done |
-| 11        | Container With Most Water                                         | ✅ Done |
-| 12        | Integer to Roman                                                  | ✅ Done |
-| 13        | Roman to Integer                                                  | ✅ Done |
-| 14        | Longest Common Prefix                                             | ✅ Done |
-| 15        | 3Sum                                                              | ✅ Done |
-| 16        | 3Sum Closest                                                      | ✅ Done |
-| 17        | Letter Combinations of a Phone Number                             | ✅ Done |
-| 18        | 4Sum                                                              | ✅ Done |
-| 20        | Valid Parentheses                                                 | ✅ Done |
-| 21        | Merge Two Sorted Lists                                            | ✅ Done |
-| 22        | Generate Parentheses                                              | ✅ Done |
-| 26        | Remove Duplicates from Sorted Array                               | ✅ Done |
-| 27        | Remove Element                                                    | ✅ Done |
-| 28        | Find the Index of the First Occurrence in a String                | ✅ Done |
-| 34        | Find First and Last Position of Element in Sorted Array           | ✅ Done |
-| 35        | Search Insert Position                                            | ✅ Done |
-| 42        | Trapping Rain Water                                               | ✅ Done |
-| 49        | Group Anagrams                                                    | ✅ Done |
-| 53        | Maximum Subarray                                                  | ✅ Done |
-| 58        | Length of Last Word                                               | ✅ Done |
-| 59        | Spiral Matrix II                                                  | ✅ Done |
-| 62        | Unique Paths                                                      | ✅ Done |
-| 63        | Unique Paths II                                                   | ✅ Done |
-| 64        | Minimum Path Sum                                                  | ✅ Done |
-| 66        | Plus One                                                          | ✅ Done |
-| 67        | Add Binary                                                        | ✅ Done |
-| 69        | Sqrt X                                                            | ✅ Done |
-| 70        | Climbing Stairs                                                   | ✅ Done |
-| 72        | Edit Distance                                                     | ✅ Done |
-| 73        | Set Matrix Zeroes                                                 | ✅ Done |
-| 76        | Minimum Window Substring                                          | ✅ Done |
-| 83        | Remove Duplicates from Sorted List                                | ✅ Done |
-| 88        | Merge Sorted Array                                                | ✅ Done |
-| 91        | Decode Ways                                                       | ✅ Done |
-| 94        | Binary Tree Inorder Traversal                                     | ✅ Done |
-| 95        | Unique Binary Search Trees II                                     | ✅ Done |
-| 96        | Unique Binary Search Trees                                        | ✅ Done |
-| 100       | Same Tree                                                         | ✅ Done |
-| 101       | Symmetric Tree                                                    | ✅ Done |
-| 115       | Distinct Subsequences                                             | ✅ Done |
-| 118       | Pascal's Triangle                                                 | ✅ Done |
-| 119       | Pascal's Triangle II                                              | ✅ Done |
-| 120       | Triangle                                                          | ✅ Done |
-| 121       | Best Time to Buy and Sell Stock                                   | ✅ Done |
-| 122       | Best Time to Buy and Sell Stock II                                | ✅ Done |
-| 123       | Best Time to Buy and Sell Stock III                               | ✅ Done |
-| 124       | Binary Tree Maximum Path Sum                                      | ✅ Done |
-| 125       | Valid Palindrome                                                  | ✅ Done |
-| 128       | Longest Consecutive Sequence                                      | ✅ Done |
-| 135       | Candy                                                             | ✅ Done |
-| 136       | Single Number                                                     | ✅ Done |
-| 139       | Word Break                                                        | ✅ Done |
-| 155       | Min Stack                                                         | ✅ Done |
-| 160       | Intersection of Two Linked Lists                                  | ✅ Done |
-| 167       | Two Sum II - Input Array Is Sorted                                | ✅ Done |
-| 168       | Excel Sheet Column Title                                          | ✅ Done |
-| 169       | Majority Element                                                  | ✅ Done |
-| 171       | Excel Sheet Column Number                                         | ✅ Done |
-| 175       | Combine Two Tables                                                | ✅ Done |
-| 188       | Best Time to Buy and Sell Stock IV                                | ✅ Done |
-| 198       | House Robber                                                      | ✅ Done |
-| 202       | Happy Number                                                      | ✅ Done |
-| 204       | Count Primes                                                      | ✅ Done |
-| 213       | House Robber II                                                   | ✅ Done |
-| 217       | Contains Duplicate                                                | ✅ Done |
-| 221       | Maximal Square                                                    | ✅ Done |
-| 229       | Majority Element II                                               | ✅ Done |
-| 231       | Power of Two                                                      | ✅ Done |
-| 232       | Implement Queue using Stacks                                      | ✅ Done |
-| 238       | Product of Array Except Self                                      | ✅ Done |
-| 242       | Valid Anagram                                                     | ✅ Done |
-| 279       | Perfect Squares                                                   | ✅ Done |
-| 287       | Find the Duplicate Number                                         | ✅ Done |
-| 300       | Longest Increasing Subsequence                                    | ✅ Done |
-| 309       | Best Time to Buy and Sell Stock with Cooldown                     | ✅ Done |
-| 322       | Coin Change                                                       | ✅ Done |
-| 326       | Power of Three                                                    | ✅ Done |
-| 337       | House Robber III                                                  | ✅ Done |
-| 338       | Counting Bits                                                     | ✅ Done |
-| 342       | Power of Four                                                     | ✅ Done |
-| 344       | Reverse String                                                    | ✅ Done |
-| 345       | Reverse Vowels of a String                                        | ✅ Done |
-| 347       | Top K Frequent Elements                                           | ✅ Done |
-| 349       | Intersection of Two Arrays                                        | ✅ Done |
-| 350       | Intersection of Two Arrays II                                     | ✅ Done |
-| 354       | Russian Doll Envelopes                                            | ✅ Done |
-| 367       | Valid Perfect Square                                              | ✅ Done |
-| 374       | Guess Number Higher or Lower                                      | ✅ Done |
-| 377       | Combination Sum IV                                                | ✅ Done |
-| 383       | Ransom Note                                                       | ✅ Done |
-| 386       | Lexicographical Numbers                                           | ✅ Done |
-| 387       | First Unique Character in a String                                | ✅ Done |
-| 389       | Find the Difference                                               | ✅ Done |
-| 392       | Is Subsequence                                                    | ✅ Done |
-| 409       | Longest Palindrome                                                | ✅ Done |
-| 412       | Fizz Buzz                                                         | ✅ Done |
-| 438       | Find All Anagrams                                                 | ✅ Done |
-| 440       | K-th Smallest in Lexicographical Order                            | ✅ Done |
-| 442       | Find All Duplicates in an Array                                   | ✅ Done |
-| 448       | Find All Numbers Disappeared in an Array                          | ✅ Done |
-| 474       | Ones and Zeroes                                                   | ✅ Done |
-| 509       | Fibonacci Number                                                  | ✅ Done |
-| 516       | Longest Palindromic Subsequence                                   | ✅ Done |
-| 518       | Coin Change II                                                    | ✅ Done |
-| 560       | Subarray Sum Equals K                                             | ✅ Done |
-| 567       | Permutation In String                                             | ✅ Done |
-| 594       | Longest Harmnious Subsequence                                     | ✅ Done |
-| 645       | Set Mismatch                                                      | ✅ Done |
-| 646       | Maximum Length of Pair Chain                                      | ✅ Done |
-| 661       | Image Smoother                                                    | ✅ Done |
-| 673       | Number of Longest Increasing Subsequence                          | ✅ Done |
-| 680       | Valid Palindrome II                                               | ✅ Done |
-| 704       | Binary Search                                                     | ✅ Done |
-| 712       | Minimum ASCII Delete Sum for Two Strings                          | ✅ Done |
-| 714       | Best Time to Buy and Sell Stock with Transaction Fee              | ✅ Done |
-| 740       | Delete and Earn                                                   | ✅ Done |
-| 746       | Min Cost Climbing Stairs                                          | ✅ Done |
-| 767       | Reorganize String                                                 | ✅ Done |
-| 771       | Jewels and Stones                                                 | ✅ Done |
-| 790       | Domino and Tromino Tiling                                         | ✅ Done |
-| 808       | Soup Servings                                                     | ✅ Done |
-| 852       | Peak Index in a Mountain Array                                    | ✅ Done |
-| 861       | Score After Flipping Matrix                                       | ✅ Done |
-| 867       | Transpose Matrix                                                  | ✅ Done |
-| 869       | Reordered Power of 2                                              | ✅ Done |
-| 898       | Bitwise ORs of Subarrays                                          | ✅ Done |
-| 900       | RLE Iterator                                                      | ✅ Done |
-| 904       | Fruit Into Baskets                                                | ✅ Done |
-| 909       | Snakes and Ladders                                                | ✅ Done |
-| 931       | Minimum Falling Path Sum                                          | ✅ Done |
-| 945       | Minimum Increment to Make Array Unique                            | ✅ Done |
-| 983       | Minimum Cost For Tickets                                          | ✅ Done |
-| 1011      | Capacity To Ship Packages Within D Days                           | ✅ Done |
-| 1025      | Divisor Game                                                      | ✅ Done |
-| 1027      | Longest Arithmetic Subsequence                                    | ✅ Done |
-| 1035      | Uncrossed Lines                                                   | ✅ Done |
-| 1061      | Lexicographically Smallest Equivalent String                      | ✅ Done |
-| 1090      | Largest Values From Labels                                        | ✅ Done |
-| 1137      | N-th Tribonacci Number                                            | ✅ Done |
-| 1143      | Longest Common Subsequence                                        | ✅ Done |
-| 1218      | Longest Arithmetic Subsequence of Given Difference                | ✅ Done |
-| 1233      | Remove Sub-Folders from the Filesystem                            | ✅ Done |
-| 1260      | Shift 2D Grid                                                     | ✅ Done |
-| 1290      | Convert Binary Number in a Linked List to Integer                 | ✅ Done |
-| 1298      | Maximum Candies You Can Get from Boxes                            | ✅ Done |
-| 1312      | Minimum Insertion Steps to Make a String Palindrome               | ✅ Done |
-| 1353      | Maximum Number of Events That Can Be Attended                     | ✅ Done |
-| 1394      | Find Lucky Integer in an Array                                    | ✅ Done |
-| 1431      | Kids With the Greatest Number of Candies                          | ✅ Done |
-| 1432      | Max Difference You Can Get From Changing an Integer               | ✅ Done |
-| 1480      | Running Sum of 1d Array                                           | ✅ Done |
-| 1498      | Number of Subsequences That Satisfy the Given Sum Condition       | ✅ Done |
-| 1508      | Range Sum of Sorted Subarray Sums                                 | ✅ Done |
-| 1528      | Shuffle String                                                    | ✅ Done |
-| 1668      | Maximum Repeating Substring                                       | ✅ Done |
-| 1695      | Maximum Erasure Value                                             | ✅ Done |
-| 1717      | Maximum Score From Removing Substrings                            | ✅ Done |
-| 1751      | Maximum Number of Events That Can Be Attended II                  | ✅ Done |
-| 1857      | Largest Color Value in a Directed Graph                           | ✅ Done |
-| 1865      | Finding Pairs With a Certain Sum                                  | ✅ Done |
-| 1877      | Minimize Maximum Pair Sum in Array                                | ✅ Done |
-| 1900      | The Earliest and Latest Rounds Where Players Compete              | ✅ Done |
-| 1948      | Delete Duplicate Folders in System                                | ✅ Done |
-| 1957      | Delete Characters to Make Fancy String                            | ✅ Done |
-| 1964      | Find the Longest Valid Obstacle Course at Each Position           | ✅ Done |
-| 2014      | Longest Subsequence Repeated k Times                              | ✅ Done |
-| 2016      | Maximum Difference Between Increasing Elements                    | ✅ Done |
-| 2040      | Kth Smallest Product of Two Sorted Arrays                         | ✅ Done |
-| 2044      | Count Number of Maximum Bitwise-OR Subsets                        | ✅ Done |
-| 2081      | Sum of k-Mirror Numbers                                           | ✅ Done |
-| 2099      | Find Subsequence of Length K With the Largest Sum                 | ✅ Done |
-| 2106      | Maximum Fruits Harvested After at Most K Steps                    | ✅ Done |
-| 2131      | Longest Palindrome by Concatenating Two Letter Words              | ✅ Done |
-| 2138      | Divide a String Into Groups of Size k                             | ✅ Done |
-| 2140      | Solving Questions With Brainpower                                 | ✅ Done |
-| 2150      | Find All Lonely Numbers in the Array                              | ✅ Done |
-| 2163      | Minimum Difference in Sums After Removal of Elements              | ✅ Done |
-| 2200      | Find All K-Distant Indices in an Array                            | ✅ Done |
-| 2202      | Convert 1D Array Into 2D Array                                    | ✅ Done |
-| 2210      | Count Hills and Valleys in an Array                               | ✅ Done |
-| 2244      | Minimum Rounds to Complete All Tasks                              | ✅ Done |
-| 2255      | Find Players With Zero or One Losses                              | ✅ Done |
-| 2264      | Largest 3-Same-Digit Number in String                             | ✅ Done |
-| 2294      | Partition Array Such That Maximum Difference Is K                 | ✅ Done |
-| 2311      | Longest Binary Subsequence Less Than or Equal to K                | ✅ Done |
-| 2322      | Minimum Score After Removals on a Tree                            | ✅ Done |
-| 2359      | Find Closest Node to Given Two Nodes                              | ✅ Done |
-| 2402      | Meeting Rooms III                                                 | ✅ Done |
-| 2410      | Maximum-Mathching-of-Players-With-Trainers                        | ✅ Done |
-| 2411      | Smallest Subarrays With Maximum Bitwise OR                        | ✅ Done |
-| 2419      | Longest Subarray With Maximum Bitwise AND                         | ✅ Done |
-| 2428      | Maximum Sum of an Hourglass                                       | ✅ Done |
-| 2434      | Using a Robot to Print the Lexicographically Smallest String      | ✅ Done |
-| 2438      | Range Product Queries of Powers                                   | ✅ Done |
-| 2466      | Count Ways to Build Good Strings                                  | ✅ Done |
-| 2560      | House Robber IV                                                   | ✅ Done |
-| 2561      | Rearranging Fruits                                                | ✅ Done |
-| 2566      | Maximum Difference by Remapping a Digit                           | ✅ Done |
-| 2586      | Count the Number of Vowel Strings in Range                        | ✅ Done |
-| 2616      | Minimize the Maximum Difference of Pairs                          | ✅ Done |
-| 2787      | Ways to Express an Interger as Sum of Powers                      | ✅ Done |
-| 2870      | Minimum Number of Operations to Make Array Empty                  | ✅ Done |
-| 2894      | Divisible and Non-divisible Sums Difference                       | ✅ Done |
-| 2900      | Longest Unequal Adjacent Groups Subsequence                       | ✅ Done |
-| 2929      | Distribute Candies Among Children II                              | ✅ Done |
-| 2942      | Find Words Containing Character                                   | ✅ Done |
-| 2966      | Divide Array Into Arrays With Max Difference                      | ✅ Done |
-| 3024      | Type of Triangle                                                  | ✅ Done |
-| 3033      | Modify the Matrix                                                 | ✅ Done |
-| 3039      | Apply Operations to Make String Empty                             | ✅ Done |
-| 3068      | Find the Maximum Sum of Node Values                               | ✅ Done |
-| 3085      | Minimum Deletions to Make String K Special                        | ✅ Done |
-| 3136      | Valid Word                                                        | ✅ Done |
-| 3137      | Minimum Number of Operations to Make Word K-Periodic              | ✅ Done |
-| 3170      | Lixicographically Minimum String After Removing Stars             | ✅ Done |
-| 3201      | Find the Maximum Length of Valid Subsequence I                    | ✅ Done |
-| 3202      | Find the Maximum Length of Valid Subsequence II                   | ✅ Done |
-| 3304      | Find the K-th Character in String Game I                          | ✅ Done |
-| 3307      | Find the K-th Character in String Game II                         | ✅ Done |
-| 3330      | Find the Original Typed String I                                  | ✅ Done |
-| 3333      | Find the Original Typed String II                                 | ✅ Done |
-| 3362      | Zero Array Transformation III                                     | ✅ Done |
-| 3363      | Find the Maximum Number of Fruits Collected                       | ✅ Done |
-| 3372      | Maximize the Number of Target Nodes After Connecting Trees I      | ✅ Done |
-| 3373      | Maximize the Number of Target Nodes After Connecting Trees II     | ✅ Done |
-| 3403      | Find the Lexicographically Largest String From the Box I          | ✅ Done |
-| 3405      | Count the Number of Arrays with K Matching Adjacent Elements      | ✅ Done |
-| 3439      | Reschedule Meetings for Maximum Free Time I                       | ✅ Done |
-| 3440      | Reschedule Meetings for Maximum Free Time II                      | ✅ Done |
-| 3443      | Maximum Manhattan Distance After K Changes                        | ✅ Done |
-| 3477      | Fruits Into Baskets II                                            | ✅ Done |
-| 3479      | Fruits Into Baskets III                                           | ✅ Done |
-| 3480      | Maximize Subarrays After Removing One Conflicting Pair            | ✅ Done |
-| 3487      | Maximum Unique Subarray Sum After Deletion                        | ✅ Done |
-| 3537      | Fill a Special Grid                                               | ✅ Done |
-| ...       |                                                                   | 🚧 WIP  |
+
+| Problem # | Title                                                         | Status  |
+| --------- | ------------------------------------------------------------- | ------- |
+| 1         | Two Sum                                                       | ✅ Done |
+| 2         | Add Two Numbers                                               | ✅ Done |
+| 3         | Longest Substring Without Repeating Characters                | ✅ Done |
+| 4         | Median of Two Sorted Arrays                                   | ✅ Done |
+| 5         | Longest Palindromic Substring                                 | ✅ Done |
+| 6         | Zigzag Conversion                                             | ✅ Done |
+| 7         | Reverse Integer                                               | ✅ Done |
+| 8         | String to Integer (atoi)                                      | ✅ Done |
+| 9         | Palindrome Number                                             | ✅ Done |
+| 10        | Regular Expression Matching                                   | ✅ Done |
+| 11        | Container With Most Water                                     | ✅ Done |
+| 12        | Integer to Roman                                              | ✅ Done |
+| 13        | Roman to Integer                                              | ✅ Done |
+| 14        | Longest Common Prefix                                         | ✅ Done |
+| 15        | 3Sum                                                          | ✅ Done |
+| 16        | 3Sum Closest                                                  | ✅ Done |
+| 17        | Letter Combinations of a Phone Number                         | ✅ Done |
+| 18        | 4Sum                                                          | ✅ Done |
+| 20        | Valid Parentheses                                             | ✅ Done |
+| 21        | Merge Two Sorted Lists                                        | ✅ Done |
+| 22        | Generate Parentheses                                          | ✅ Done |
+| 26        | Remove Duplicates from Sorted Array                           | ✅ Done |
+| 27        | Remove Element                                                | ✅ Done |
+| 28        | Find the Index of the First Occurrence in a String            | ✅ Done |
+| 34        | Find First and Last Position of Element in Sorted Array       | ✅ Done |
+| 35        | Search Insert Position                                        | ✅ Done |
+| 42        | Trapping Rain Water                                           | ✅ Done |
+| 49        | Group Anagrams                                                | ✅ Done |
+| 53        | Maximum Subarray                                              | ✅ Done |
+| 58        | Length of Last Word                                           | ✅ Done |
+| 59        | Spiral Matrix II                                              | ✅ Done |
+| 62        | Unique Paths                                                  | ✅ Done |
+| 63        | Unique Paths II                                               | ✅ Done |
+| 64        | Minimum Path Sum                                              | ✅ Done |
+| 66        | Plus One                                                      | ✅ Done |
+| 67        | Add Binary                                                    | ✅ Done |
+| 69        | Sqrt X                                                        | ✅ Done |
+| 70        | Climbing Stairs                                               | ✅ Done |
+| 72        | Edit Distance                                                 | ✅ Done |
+| 73        | Set Matrix Zeroes                                             | ✅ Done |
+| 76        | Minimum Window Substring                                      | ✅ Done |
+| 83        | Remove Duplicates from Sorted List                            | ✅ Done |
+| 88        | Merge Sorted Array                                            | ✅ Done |
+| 91        | Decode Ways                                                   | ✅ Done |
+| 94        | Binary Tree Inorder Traversal                                 | ✅ Done |
+| 95        | Unique Binary Search Trees II                                 | ✅ Done |
+| 96        | Unique Binary Search Trees                                    | ✅ Done |
+| 100       | Same Tree                                                     | ✅ Done |
+| 101       | Symmetric Tree                                                | ✅ Done |
+| 115       | Distinct Subsequences                                         | ✅ Done |
+| 118       | Pascal's Triangle                                             | ✅ Done |
+| 119       | Pascal's Triangle II                                          | ✅ Done |
+| 120       | Triangle                                                      | ✅ Done |
+| 121       | Best Time to Buy and Sell Stock                               | ✅ Done |
+| 122       | Best Time to Buy and Sell Stock II                            | ✅ Done |
+| 123       | Best Time to Buy and Sell Stock III                           | ✅ Done |
+| 124       | Binary Tree Maximum Path Sum                                  | ✅ Done |
+| 125       | Valid Palindrome                                              | ✅ Done |
+| 128       | Longest Consecutive Sequence                                  | ✅ Done |
+| 135       | Candy                                                         | ✅ Done |
+| 136       | Single Number                                                 | ✅ Done |
+| 139       | Word Break                                                    | ✅ Done |
+| 155       | Min Stack                                                     | ✅ Done |
+| 160       | Intersection of Two Linked Lists                              | ✅ Done |
+| 167       | Two Sum II - Input Array Is Sorted                            | ✅ Done |
+| 168       | Excel Sheet Column Title                                      | ✅ Done |
+| 169       | Majority Element                                              | ✅ Done |
+| 171       | Excel Sheet Column Number                                     | ✅ Done |
+| 175       | Combine Two Tables                                            | ✅ Done |
+| 188       | Best Time to Buy and Sell Stock IV                            | ✅ Done |
+| 198       | House Robber                                                  | ✅ Done |
+| 202       | Happy Number                                                  | ✅ Done |
+| 204       | Count Primes                                                  | ✅ Done |
+| 213       | House Robber II                                               | ✅ Done |
+| 217       | Contains Duplicate                                            | ✅ Done |
+| 221       | Maximal Square                                                | ✅ Done |
+| 229       | Majority Element II                                           | ✅ Done |
+| 231       | Power of Two                                                  | ✅ Done |
+| 232       | Implement Queue using Stacks                                  | ✅ Done |
+| 238       | Product of Array Except Self                                  | ✅ Done |
+| 242       | Valid Anagram                                                 | ✅ Done |
+| 279       | Perfect Squares                                               | ✅ Done |
+| 287       | Find the Duplicate Number                                     | ✅ Done |
+| 300       | Longest Increasing Subsequence                                | ✅ Done |
+| 309       | Best Time to Buy and Sell Stock with Cooldown                 | ✅ Done |
+| 322       | Coin Change                                                   | ✅ Done |
+| 326       | Power of Three                                                | ✅ Done |
+| 337       | House Robber III                                              | ✅ Done |
+| 338       | Counting Bits                                                 | ✅ Done |
+| 342       | Power of Four                                                 | ✅ Done |
+| 344       | Reverse String                                                | ✅ Done |
+| 345       | Reverse Vowels of a String                                    | ✅ Done |
+| 347       | Top K Frequent Elements                                       | ✅ Done |
+| 349       | Intersection of Two Arrays                                    | ✅ Done |
+| 350       | Intersection of Two Arrays II                                 | ✅ Done |
+| 354       | Russian Doll Envelopes                                        | ✅ Done |
+| 367       | Valid Perfect Square                                          | ✅ Done |
+| 374       | Guess Number Higher or Lower                                  | ✅ Done |
+| 377       | Combination Sum IV                                            | ✅ Done |
+| 383       | Ransom Note                                                   | ✅ Done |
+| 386       | Lexicographical Numbers                                       | ✅ Done |
+| 387       | First Unique Character in a String                            | ✅ Done |
+| 389       | Find the Difference                                           | ✅ Done |
+| 392       | Is Subsequence                                                | ✅ Done |
+| 409       | Longest Palindrome                                            | ✅ Done |
+| 412       | Fizz Buzz                                                     | ✅ Done |
+| 438       | Find All Anagrams                                             | ✅ Done |
+| 440       | K-th Smallest in Lexicographical Order                        | ✅ Done |
+| 442       | Find All Duplicates in an Array                               | ✅ Done |
+| 448       | Find All Numbers Disappeared in an Array                      | ✅ Done |
+| 474       | Ones and Zeroes                                               | ✅ Done |
+| 509       | Fibonacci Number                                              | ✅ Done |
+| 516       | Longest Palindromic Subsequence                               | ✅ Done |
+| 518       | Coin Change II                                                | ✅ Done |
+| 560       | Subarray Sum Equals K                                         | ✅ Done |
+| 567       | Permutation In String                                         | ✅ Done |
+| 594       | Longest Harmnious Subsequence                                 | ✅ Done |
+| 645       | Set Mismatch                                                  | ✅ Done |
+| 646       | Maximum Length of Pair Chain                                  | ✅ Done |
+| 661       | Image Smoother                                                | ✅ Done |
+| 673       | Number of Longest Increasing Subsequence                      | ✅ Done |
+| 680       | Valid Palindrome II                                           | ✅ Done |
+| 704       | Binary Search                                                 | ✅ Done |
+| 712       | Minimum ASCII Delete Sum for Two Strings                      | ✅ Done |
+| 714       | Best Time to Buy and Sell Stock with Transaction Fee          | ✅ Done |
+| 740       | Delete and Earn                                               | ✅ Done |
+| 746       | Min Cost Climbing Stairs                                      | ✅ Done |
+| 767       | Reorganize String                                             | ✅ Done |
+| 771       | Jewels and Stones                                             | ✅ Done |
+| 790       | Domino and Tromino Tiling                                     | ✅ Done |
+| 808       | Soup Servings                                                 | ✅ Done |
+| 852       | Peak Index in a Mountain Array                                | ✅ Done |
+| 861       | Score After Flipping Matrix                                   | ✅ Done |
+| 867       | Transpose Matrix                                              | ✅ Done |
+| 869       | Reordered Power of 2                                          | ✅ Done |
+| 898       | Bitwise ORs of Subarrays                                      | ✅ Done |
+| 900       | RLE Iterator                                                  | ✅ Done |
+| 904       | Fruit Into Baskets                                            | ✅ Done |
+| 909       | Snakes and Ladders                                            | ✅ Done |
+| 931       | Minimum Falling Path Sum                                      | ✅ Done |
+| 945       | Minimum Increment to Make Array Unique                        | ✅ Done |
+| 983       | Minimum Cost For Tickets                                      | ✅ Done |
+| 1011      | Capacity To Ship Packages Within D Days                       | ✅ Done |
+| 1025      | Divisor Game                                                  | ✅ Done |
+| 1027      | Longest Arithmetic Subsequence                                | ✅ Done |
+| 1035      | Uncrossed Lines                                               | ✅ Done |
+| 1061      | Lexicographically Smallest Equivalent String                  | ✅ Done |
+| 1090      | Largest Values From Labels                                    | ✅ Done |
+| 1137      | N-th Tribonacci Number                                        | ✅ Done |
+| 1143      | Longest Common Subsequence                                    | ✅ Done |
+| 1218      | Longest Arithmetic Subsequence of Given Difference            | ✅ Done |
+| 1233      | Remove Sub-Folders from the Filesystem                        | ✅ Done |
+| 1260      | Shift 2D Grid                                                 | ✅ Done |
+| 1290      | Convert Binary Number in a Linked List to Integer             | ✅ Done |
+| 1298      | Maximum Candies You Can Get from Boxes                        | ✅ Done |
+| 1312      | Minimum Insertion Steps to Make a String Palindrome           | ✅ Done |
+| 1353      | Maximum Number of Events That Can Be Attended                 | ✅ Done |
+| 1394      | Find Lucky Integer in an Array                                | ✅ Done |
+| 1431      | Kids With the Greatest Number of Candies                      | ✅ Done |
+| 1432      | Max Difference You Can Get From Changing an Integer           | ✅ Done |
+| 1480      | Running Sum of 1d Array                                       | ✅ Done |
+| 1498      | Number of Subsequences That Satisfy the Given Sum Condition   | ✅ Done |
+| 1508      | Range Sum of Sorted Subarray Sums                             | ✅ Done |
+| 1528      | Shuffle String                                                | ✅ Done |
+| 1668      | Maximum Repeating Substring                                   | ✅ Done |
+| 1695      | Maximum Erasure Value                                         | ✅ Done |
+| 1717      | Maximum Score From Removing Substrings                        | ✅ Done |
+| 1751      | Maximum Number of Events That Can Be Attended II              | ✅ Done |
+| 1857      | Largest Color Value in a Directed Graph                       | ✅ Done |
+| 1865      | Finding Pairs With a Certain Sum                              | ✅ Done |
+| 1877      | Minimize Maximum Pair Sum in Array                            | ✅ Done |
+| 1900      | The Earliest and Latest Rounds Where Players Compete          | ✅ Done |
+| 1948      | Delete Duplicate Folders in System                            | ✅ Done |
+| 1957      | Delete Characters to Make Fancy String                        | ✅ Done |
+| 1964      | Find the Longest Valid Obstacle Course at Each Position       | ✅ Done |
+| 2014      | Longest Subsequence Repeated k Times                          | ✅ Done |
+| 2016      | Maximum Difference Between Increasing Elements                | ✅ Done |
+| 2040      | Kth Smallest Product of Two Sorted Arrays                     | ✅ Done |
+| 2044      | Count Number of Maximum Bitwise-OR Subsets                    | ✅ Done |
+| 2081      | Sum of k-Mirror Numbers                                       | ✅ Done |
+| 2099      | Find Subsequence of Length K With the Largest Sum             | ✅ Done |
+| 2106      | Maximum Fruits Harvested After at Most K Steps                | ✅ Done |
+| 2131      | Longest Palindrome by Concatenating Two Letter Words          | ✅ Done |
+| 2138      | Divide a String Into Groups of Size k                         | ✅ Done |
+| 2140      | Solving Questions With Brainpower                             | ✅ Done |
+| 2150      | Find All Lonely Numbers in the Array                          | ✅ Done |
+| 2163      | Minimum Difference in Sums After Removal of Elements          | ✅ Done |
+| 2200      | Find All K-Distant Indices in an Array                        | ✅ Done |
+| 2202      | Convert 1D Array Into 2D Array                                | ✅ Done |
+| 2210      | Count Hills and Valleys in an Array                           | ✅ Done |
+| 2244      | Minimum Rounds to Complete All Tasks                          | ✅ Done |
+| 2255      | Find Players With Zero or One Losses                          | ✅ Done |
+| 2264      | Largest 3-Same-Digit Number in String                         | ✅ Done |
+| 2294      | Partition Array Such That Maximum Difference Is K             | ✅ Done |
+| 2311      | Longest Binary Subsequence Less Than or Equal to K            | ✅ Done |
+| 2322      | Minimum Score After Removals on a Tree                        | ✅ Done |
+| 2359      | Find Closest Node to Given Two Nodes                          | ✅ Done |
+| 2402      | Meeting Rooms III                                             | ✅ Done |
+| 2410      | Maximum-Mathching-of-Players-With-Trainers                    | ✅ Done |
+| 2411      | Smallest Subarrays With Maximum Bitwise OR                    | ✅ Done |
+| 2419      | Longest Subarray With Maximum Bitwise AND                     | ✅ Done |
+| 2428      | Maximum Sum of an Hourglass                                   | ✅ Done |
+| 2434      | Using a Robot to Print the Lexicographically Smallest String  | ✅ Done |
+| 2438      | Range Product Queries of Powers                               | ✅ Done |
+| 2466      | Count Ways to Build Good Strings                              | ✅ Done |
+| 2560      | House Robber IV                                               | ✅ Done |
+| 2561      | Rearranging Fruits                                            | ✅ Done |
+| 2566      | Maximum Difference by Remapping a Digit                       | ✅ Done |
+| 2586      | Count the Number of Vowel Strings in Range                    | ✅ Done |
+| 2616      | Minimize the Maximum Difference of Pairs                      | ✅ Done |
+| 2787      | Ways to Express an Interger as Sum of Powers                  | ✅ Done |
+| 2824      | Count Pairs Whose Sum is Less than Target                     | ✅ Done |
+| 2870      | Minimum Number of Operations to Make Array Empty              | ✅ Done |
+| 2894      | Divisible and Non-divisible Sums Difference                   | ✅ Done |
+| 2900      | Longest Unequal Adjacent Groups Subsequence                   | ✅ Done |
+| 2929      | Distribute Candies Among Children II                          | ✅ Done |
+| 2942      | Find Words Containing Character                               | ✅ Done |
+| 2966      | Divide Array Into Arrays With Max Difference                  | ✅ Done |
+| 3024      | Type of Triangle                                              | ✅ Done |
+| 3033      | Modify the Matrix                                             | ✅ Done |
+| 3039      | Apply Operations to Make String Empty                         | ✅ Done |
+| 3068      | Find the Maximum Sum of Node Values                           | ✅ Done |
+| 3085      | Minimum Deletions to Make String K Special                    | ✅ Done |
+| 3136      | Valid Word                                                    | ✅ Done |
+| 3137      | Minimum Number of Operations to Make Word K-Periodic          | ✅ Done |
+| 3170      | Lixicographically Minimum String After Removing Stars         | ✅ Done |
+| 3201      | Find the Maximum Length of Valid Subsequence I                | ✅ Done |
+| 3202      | Find the Maximum Length of Valid Subsequence II               | ✅ Done |
+| 3304      | Find the K-th Character in String Game I                      | ✅ Done |
+| 3307      | Find the K-th Character in String Game II                     | ✅ Done |
+| 3330      | Find the Original Typed String I                              | ✅ Done |
+| 3333      | Find the Original Typed String II                             | ✅ Done |
+| 3362      | Zero Array Transformation III                                 | ✅ Done |
+| 3363      | Find the Maximum Number of Fruits Collected                   | ✅ Done |
+| 3372      | Maximize the Number of Target Nodes After Connecting Trees I  | ✅ Done |
+| 3373      | Maximize the Number of Target Nodes After Connecting Trees II | ✅ Done |
+| 3403      | Find the Lexicographically Largest String From the Box I      | ✅ Done |
+| 3405      | Count the Number of Arrays with K Matching Adjacent Elements  | ✅ Done |
+| 3439      | Reschedule Meetings for Maximum Free Time I                   | ✅ Done |
+| 3440      | Reschedule Meetings for Maximum Free Time II                  | ✅ Done |
+| 3443      | Maximum Manhattan Distance After K Changes                    | ✅ Done |
+| 3477      | Fruits Into Baskets II                                        | ✅ Done |
+| 3479      | Fruits Into Baskets III                                       | ✅ Done |
+| 3480      | Maximize Subarrays After Removing One Conflicting Pair        | ✅ Done |
+| 3487      | Maximum Unique Subarray Sum After Deletion                    | ✅ Done |
+| 3537      | Fill a Special Grid                                           | ✅ Done |
+| ...       |                                                               | 🚧 WIP  |
 
 You can track my progress on [leetcode.com](https://github.com/Grisha55).
 
 ---
 
 ## 🛠 Technologies Used
+
 - **Swift** — all solutions are written in Swift 5
 - **GitHub** — version control and progress tracking
 - **Xcode / Swift CLI** — run and test locally
@@ -1031,6 +1042,7 @@ You can track my progress on [leetcode.com](https://github.com/Grisha55).
 ---
 
 ## 📌 How to Use
+
 ```bash
 # Clone the repo
 git clone https://github.com/Grisha55/SwiftLeetCode.git
@@ -1052,3 +1064,4 @@ swift run
 
 “Consistency is more important than intensity.”
 Happy coding! 💻✨
+```
