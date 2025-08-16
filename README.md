@@ -972,6 +972,7 @@ Inside each folder:
 | 1528      | Shuffle String                                                | ✅ Done |
 | 1668      | Maximum Repeating Substring                                   | ✅ Done |
 | 1695      | Maximum Erasure Value                                         | ✅ Done |
+| 1700      | Number of Students Unable to Eat Lunch                        | ✅ Done |
 | 1717      | Maximum Score From Removing Substrings                        | ✅ Done |
 | 1751      | Maximum Number of Events That Can Be Attended II              | ✅ Done |
 | 1823      | Find the Winner of the Circular Game                          | ✅ Done |
