@@ -169,6 +169,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0101-Symmetric-Tree/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0114-Flatten-Binary-Tree-to-Linked-List/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0115-Distinct-Subsequences/
 │ └── Solution.swift
 │ └── Problem.md
@@ -842,6 +845,7 @@ Inside each folder:
 | 96        | Unique Binary Search Trees                                    | ✅ Done |
 | 100       | Same Tree                                                     | ✅ Done |
 | 101       | Symmetric Tree                                                | ✅ Done |
+| 114       | Flatten Binary Tree to Linked List                            | ✅ Done |
 | 115       | Distinct Subsequences                                         | ✅ Done |
 | 118       | Pascal's Triangle                                             | ✅ Done |
 | 119       | Pascal's Triangle II                                          | ✅ Done |
