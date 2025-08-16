@@ -451,6 +451,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0948-Bag-of-Tokens/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0950-Reveal-Cards-In-Increasing-Order/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0983-Minimum-Cost-For-Tickets/
 │ └── Solution.swift
 │ └── Problem.md
@@ -939,6 +942,7 @@ Inside each folder:
 | 931       | Minimum Falling Path Sum                                      | ✅ Done |
 | 945       | Minimum Increment to Make Array Unique                        | ✅ Done |
 | 948       | Bag of Tokens                                                 | ✅ Done |
+| 950       | Reveal Cards In Increasing Order                              | ✅ Done |
 | 983       | Minimum Cost For Tickets                                      | ✅ Done |
 | 1011      | Capacity To Ship Packages Within D Days                       | ✅ Done |
 | 1025      | Divisor Game                                                  | ✅ Done |
