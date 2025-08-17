@@ -418,6 +418,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0808-Soup-Servings/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0837-New-21-Game/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0852-Peak-Index-in-a-Mountain-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -934,6 +937,7 @@ Inside each folder:
 | 771       | Jewels and Stones                                             | ✅ Done |
 | 790       | Domino and Tromino Tiling                                     | ✅ Done |
 | 808       | Soup Servings                                                 | ✅ Done |
+| 837       | New 21 Game                                                   | ✅ Done |
 | 852       | Peak Index in a Mountain Array                                | ✅ Done |
 | 861       | Score After Flipping Matrix                                   | ✅ Done |
 | 867       | Transpose Matrix                                              | ✅ Done |
