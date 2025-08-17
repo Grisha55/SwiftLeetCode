@@ -466,6 +466,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1011-Capacity-To-Ship-Packages-Within-D-Days/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1021-Remove-Outermost-Parentheses/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1025-Divisor-Game/
 │ └── Solution.swift
 │ └── Problem.md
@@ -956,6 +959,7 @@ Inside each folder:
 | 950       | Reveal Cards In Increasing Order                              | ✅ Done |
 | 983       | Minimum Cost For Tickets                                      | ✅ Done |
 | 1011      | Capacity To Ship Packages Within D Days                       | ✅ Done |
+| 1021      | Remove Outermost Parentheses                                  | ✅ Done |
 | 1025      | Divisor Game                                                  | ✅ Done |
 | 1027      | Longest Arithmetic Subsequence                                | ✅ Done |
 | 1035      | Uncrossed Lines                                               | ✅ Done |
