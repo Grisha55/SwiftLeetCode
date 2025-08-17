@@ -94,6 +94,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0028-Find-the-Index-of-the-First-Occurrence-in-a-String/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0032-Longest-Valid-Parentheses/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -829,6 +832,7 @@ Inside each folder:
 | 26        | Remove Duplicates from Sorted Array                           | ✅ Done |
 | 27        | Remove Element                                                | ✅ Done |
 | 28        | Find the Index of the First Occurrence in a String            | ✅ Done |
+| 32        | Longest Valid Parentheses                                     | ✅ Done |
 | 34        | Find First and Last Position of Element in Sorted Array       | ✅ Done |
 | 35        | Search Insert Position                                        | ✅ Done |
 | 42        | Trapping Rain Water                                           | ✅ Done |
