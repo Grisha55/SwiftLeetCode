@@ -214,6 +214,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0139-Word-Break/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0141-Linked-List-Cycle/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0155-Min-Stack/
 │ └── Solution.swift
 │ └── Problem.md
@@ -890,6 +893,7 @@ Inside each folder:
 | 135       | Candy                                                         | ✅ Done |
 | 136       | Single Number                                                 | ✅ Done |
 | 139       | Word Break                                                    | ✅ Done |
+| 141       | Linked List Cycle                                             | ✅ Done |
 | 155       | Min Stack                                                     | ✅ Done |
 | 160       | Intersection of Two Linked Lists                              | ✅ Done |
 | 167       | Two Sum II - Input Array Is Sorted                            | ✅ Done |
