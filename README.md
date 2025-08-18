@@ -667,6 +667,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2438-Range-Product-Queries-of-Powers/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2465-Number-of-Distinct-Averages/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2466-Count-Ways-To-Build-Good-Strings/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1030,6 +1033,7 @@ Inside each folder:
 | 2428      | Maximum Sum of an Hourglass                                   | ✅ Done |
 | 2434      | Using a Robot to Print the Lexicographically Smallest String  | ✅ Done |
 | 2438      | Range Product Queries of Powers                               | ✅ Done |
+| 2465      | Number of Distinct Averages                                   | ✅ Done |
 | 2466      | Count Ways to Build Good Strings                              | ✅ Done |
 | 2560      | House Robber IV                                               | ✅ Done |
 | 2561      | Rearranging Fruits                                            | ✅ Done |
