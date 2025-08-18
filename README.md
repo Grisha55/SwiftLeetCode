@@ -427,6 +427,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0837-New-21-Game/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0838-Push-Dominoes/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0852-Peak-Index-in-a-Mountain-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -952,6 +955,7 @@ Inside each folder:
 | 790       | Domino and Tromino Tiling                                     | ✅ Done |
 | 808       | Soup Servings                                                 | ✅ Done |
 | 837       | New 21 Game                                                   | ✅ Done |
+| 838       | Push Dominoes                                                 | ✅ Done |
 | 852       | Peak Index in a Mountain Array                                | ✅ Done |
 | 861       | Score After Flipping Matrix                                   | ✅ Done |
 | 867       | Transpose Matrix                                              | ✅ Done |
