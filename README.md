@@ -265,6 +265,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0232-Implement-Queue-using-Stacks/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0234-Palindrome-Linked-List/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0238-Product-of-Array-Except-Self/
 │ └── Solution.swift
 │ └── Problem.md
@@ -904,6 +907,7 @@ Inside each folder:
 | 229       | Majority Element II                                           | ✅ Done |
 | 231       | Power of Two                                                  | ✅ Done |
 | 232       | Implement Queue using Stacks                                  | ✅ Done |
+| 234       | Palindrome Linked List                                        | ✅ Done |
 | 238       | Product of Array Except Self                                  | ✅ Done |
 | 242       | Valid Anagram                                                 | ✅ Done |
 | 279       | Perfect Squares                                               | ✅ Done |
