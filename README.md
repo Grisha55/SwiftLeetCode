@@ -391,6 +391,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0673-Number-of-Longest-Increasing-Subsequence/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0679-24-Game/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0680-Valid-Palindrome-II/
 │ └── Solution.swift
 │ └── Problem.md
@@ -934,6 +937,7 @@ Inside each folder:
 | 646       | Maximum Length of Pair Chain                                  | ✅ Done |
 | 661       | Image Smoother                                                | ✅ Done |
 | 673       | Number of Longest Increasing Subsequence                      | ✅ Done |
+| 679       | 24 Game                                                       | ✅ Done |
 | 680       | Valid Palindrome II                                           | ✅ Done |
 | 704       | Binary Search                                                 | ✅ Done |
 | 712       | Minimum ASCII Delete Sum for Two Strings                      | ✅ Done |
