@@ -274,6 +274,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0279-Perfect-Squares/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0283-Move-Zeroes/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0287-Find-the-Duplicate-Number/
 │ └── Solution.swift
 │ └── Problem.md
@@ -904,6 +907,7 @@ Inside each folder:
 | 238       | Product of Array Except Self                                  | ✅ Done |
 | 242       | Valid Anagram                                                 | ✅ Done |
 | 279       | Perfect Squares                                               | ✅ Done |
+| 283       | Move Zeroes                                                   | ✅ Done |
 | 287       | Find the Duplicate Number                                     | ✅ Done |
 | 300       | Longest Increasing Subsequence                                | ✅ Done |
 | 309       | Best Time to Buy and Sell Stock with Cooldown                 | ✅ Done |
