@@ -277,6 +277,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0242-Valid-Anagram/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0257-Binary-Tree-Paths/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0279-Perfect-Squares/
 │ └── Solution.swift
 │ └── Problem.md
@@ -926,6 +929,7 @@ Inside each folder:
 | 234       | Palindrome Linked List                                        | ✅ Done |
 | 238       | Product of Array Except Self                                  | ✅ Done |
 | 242       | Valid Anagram                                                 | ✅ Done |
+| 257       | Binary Tree Paths                                             | ✅ Done |
 | 279       | Perfect Squares                                               | ✅ Done |
 | 283       | Move Zeroes                                                   | ✅ Done |
 | 287       | Find the Duplicate Number                                     | ✅ Done |
