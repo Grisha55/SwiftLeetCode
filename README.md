@@ -355,6 +355,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0412-Fizz-Buzz/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0415-Add-Strings/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0434-Number-of-Segments-in-a-String/
 │ └── Solution.swift
 │ └── Problem.md
@@ -946,6 +949,7 @@ Inside each folder:
 | 392       | Is Subsequence                                                | ✅ Done |
 | 409       | Longest Palindrome                                            | ✅ Done |
 | 412       | Fizz Buzz                                                     | ✅ Done |
+| 415       | Add Strings                                                   | ✅ Done |
 | 434       | Number of Segments in a String                                | ✅ Done |
 | 438       | Find All Anagrams                                             | ✅ Done |
 | 440       | K-th Smallest in Lexicographical Order                        | ✅ Done |
