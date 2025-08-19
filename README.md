@@ -349,6 +349,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0392-Is-Subsequence/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0405-Convert-a-Number-to-a-Hexadecimal/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0409-Longest-Palindrome/
 │ └── Solution.swift
 │ └── Problem.md
@@ -947,6 +950,7 @@ Inside each folder:
 | 387       | First Unique Character in a String                            | ✅ Done |
 | 389       | Find the Difference                                           | ✅ Done |
 | 392       | Is Subsequence                                                | ✅ Done |
+| 405       | Convert a Number to Hexadecimal                               | ✅ Done |
 | 409       | Longest Palindrome                                            | ✅ Done |
 | 412       | Fizz Buzz                                                     | ✅ Done |
 | 415       | Add Strings                                                   | ✅ Done |
