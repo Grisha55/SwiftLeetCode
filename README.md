@@ -250,6 +250,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0204-Count-Primes/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0205-Isomorphic-Strings/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0213-House-Robber-II/
 │ └── Solution.swift
 │ └── Problem.md
@@ -920,6 +923,7 @@ Inside each folder:
 | 198       | House Robber                                                  | ✅ Done |
 | 202       | Happy Number                                                  | ✅ Done |
 | 204       | Count Primes                                                  | ✅ Done |
+| 205       | Isomorphic Strings                                            | ✅ Done |
 | 213       | House Robber II                                               | ✅ Done |
 | 217       | Contains Duplicate                                            | ✅ Done |
 | 221       | Maximal Square                                                | ✅ Done |
