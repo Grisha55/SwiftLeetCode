@@ -76,6 +76,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0018-4Sum/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0019-Remove-Nth-Node-From-End-of-List/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0020-Valid-Parentheses/
 │ └── Solution.swift
 │ └── Problem.md
@@ -871,6 +874,7 @@ Inside each folder:
 | 16        | 3Sum Closest                                                  | ✅ Done |
 | 17        | Letter Combinations of a Phone Number                         | ✅ Done |
 | 18        | 4Sum                                                          | ✅ Done |
+| 19        | Remove Nth Node From End of List                              | ✅ Done |
 | 20        | Valid Parentheses                                             | ✅ Done |
 | 21        | Merge Two Sorted Lists                                        | ✅ Done |
 | 22        | Generate Parentheses                                          | ✅ Done |
