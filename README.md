@@ -412,6 +412,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0646-Maximum-Length-of-Pair-Chain/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0653-Two-Sum-IV-Input-is-a-BST/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0661-Image-Smoother/
 │ └── Solution.swift
 │ └── Problem.md
@@ -989,6 +992,7 @@ Inside each folder:
 | 594       | Longest Harmnious Subsequence                                 | ✅ Done |
 | 645       | Set Mismatch                                                  | ✅ Done |
 | 646       | Maximum Length of Pair Chain                                  | ✅ Done |
+| 653       | Two Sum IV - Input is a BST                                   | ✅ Done |
 | 661       | Image Smoother                                                | ✅ Done |
 | 673       | Number of Longest Increasing Subsequence                      | ✅ Done |
 | 679       | 24 Game                                                       | ✅ Done |
