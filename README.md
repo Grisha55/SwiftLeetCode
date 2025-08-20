@@ -397,6 +397,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0518-Coin-Change-II/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0557-Reverse-Words-in-a-String-III/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0560-Subarray-Sum-Equals-K/
 │ └── Solution.swift
 │ └── Problem.md
@@ -987,6 +990,7 @@ Inside each folder:
 | 509       | Fibonacci Number                                              | ✅ Done |
 | 516       | Longest Palindromic Subsequence                               | ✅ Done |
 | 518       | Coin Change II                                                | ✅ Done |
+| 557       | Reverse Words in a String III                                 | ✅ Done |
 | 560       | Subarray Sum Equals K                                         | ✅ Done |
 | 567       | Permutation In String                                         | ✅ Done |
 | 594       | Longest Harmnious Subsequence                                 | ✅ Done |
