@@ -385,6 +385,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0448-Find-All-Numbers-Disappeared-in-an-Array/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0455-Assign Cookies/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0474-Ones-and-Zeroes/
 │ └── Solution.swift
 │ └── Problem.md
@@ -986,6 +989,7 @@ Inside each folder:
 | 440       | K-th Smallest in Lexicographical Order                        | ✅ Done |
 | 442       | Find All Duplicates in an Array                               | ✅ Done |
 | 448       | Find All Numbers Disappeared in an Array                      | ✅ Done |
+| 455       | Assign Cookies                                                | ✅ Done |
 | 474       | Ones and Zeroes                                               | ✅ Done |
 | 509       | Fibonacci Number                                              | ✅ Done |
 | 516       | Longest Palindromic Subsequence                               | ✅ Done |
