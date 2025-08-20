@@ -466,6 +466,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0869-Reordered-Power-of-2/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0870-Advantage-Shuffle/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0898-Bitwise-ORs-of-Subarrays/
 │ └── Solution.swift
 │ └── Problem.md
@@ -998,6 +1001,7 @@ Inside each folder:
 | 861       | Score After Flipping Matrix                                   | ✅ Done |
 | 867       | Transpose Matrix                                              | ✅ Done |
 | 869       | Reordered Power of 2                                          | ✅ Done |
+| 870       | Advantage Shuffle                                             | ✅ Done |
 | 898       | Bitwise ORs of Subarrays                                      | ✅ Done |
 | 900       | RLE Iterator                                                  | ✅ Done |
 | 904       | Fruit Into Baskets                                            | ✅ Done |
