@@ -580,6 +580,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1504-Count-Submatrices-With-All-Ones/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1508-Range-Sum-of-Sorted-Subarray-Sums/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1054,6 +1057,7 @@ Inside each folder:
 | 1432      | Max Difference You Can Get From Changing an Integer           | ✅ Done |
 | 1480      | Running Sum of 1d Array                                       | ✅ Done |
 | 1498      | Number of Subsequences That Satisfy the Given Sum Condition   | ✅ Done |
+| 1504      | Count Submatrices With All Ones                               | ✅ Done |
 | 1508      | Range Sum of Sorted Subarray Sums                             | ✅ Done |
 | 1528      | Shuffle String                                                | ✅ Done |
 | 1668      | Maximum Repeating Substring                                   | ✅ Done |
