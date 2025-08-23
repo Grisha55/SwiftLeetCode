@@ -1,5 +1,3 @@
-import Foundation
-
 class Solution {
     func minimumSum(_ grid: [[Int]]) -> Int {
         let n = grid.count
