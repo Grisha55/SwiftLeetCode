@@ -577,6 +577,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1480-Running-Sum-of-1d-Array/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1493-Longest-Subarray-of-1's-After-Deleting-One-Element/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1062,6 +1065,7 @@ Inside each folder:
 | 1431      | Kids With the Greatest Number of Candies                      | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer           | ✅ Done |
 | 1480      | Running Sum of 1d Array                                       | ✅ Done |
+| 1493      | Longest Subarray of 1's After Deleting One Element            | ✅ Done |
 | 1498      | Number of Subsequences That Satisfy the Given Sum Condition   | ✅ Done |
 | 1504      | Count Submatrices With All Ones                               | ✅ Done |
 | 1508      | Range Sum of Sorted Subarray Sums                             | ✅ Done |
