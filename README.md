@@ -391,6 +391,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0474-Ones-and-Zeroes/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0498-Diagonal-Traverse/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0509-Fibonacci-Number/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1003,6 +1006,7 @@ Inside each folder:
 | 448       | Find All Numbers Disappeared in an Array                      | ✅ Done |
 | 455       | Assign Cookies                                                | ✅ Done |
 | 474       | Ones and Zeroes                                               | ✅ Done |
+| 498       | Diagonal Traverse                                             | ✅ Done |
 | 509       | Fibonacci Number                                              | ✅ Done |
 | 516       | Longest Palindromic Subsequence                               | ✅ Done |
 | 518       | Coin Change II                                                | ✅ Done |
