@@ -568,6 +568,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1353-Maximum-Number-of-Events-That-Can-Be-Attended/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1358-Number-of-Substrings-Containing-All-Three-Characters/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1394-Find-Lucky-Integer-in-an-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1068,6 +1071,7 @@ Inside each folder:
 | 1312      | Minimum Insertion Steps to Make a String Palindrome           | ✅ Done |
 | 1323      | Maximum 69 Number                                             | ✅ Done |
 | 1353      | Maximum Number of Events That Can Be Attended                 | ✅ Done |
+| 1358      | Number of Substrings Containing All three Characters          | ✅ Done |
 | 1394      | Find Lucky Integer in an Array                                | ✅ Done |
 | 1431      | Kids With the Greatest Number of Candies                      | ✅ Done |
 | 1432      | Max Difference You Can Get From Changing an Integer           | ✅ Done |
