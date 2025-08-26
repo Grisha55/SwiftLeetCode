@@ -772,6 +772,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2966-Divide-Array-Into-Arrays-With-Max-Difference/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3000-Maximum-Area-of-Longest-Diagonal-Rectangle/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3024-Type-of-Triangle/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1134,6 +1137,7 @@ Inside each folder:
 | 2929      | Distribute Candies Among Children II                          | ✅ Done |
 | 2942      | Find Words Containing Character                               | ✅ Done |
 | 2966      | Divide Array Into Arrays With Max Difference                  | ✅ Done |
+| 3000      | Maximum Area of Longest Diagonal Rectangle                    | ✅ Done |
 | 3024      | Type of Triangle                                              | ✅ Done |
 | 3033      | Modify the Matrix                                             | ✅ Done |
 | 3039      | Apply Operations to Make String Empty                         | ✅ Done |
