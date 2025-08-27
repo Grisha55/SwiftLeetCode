@@ -853,6 +853,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3443-Maximum-Manhattan-Distance-After-K-Changes/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3459-Length-of-Longest-V-Shaped-Diagonal-Segment/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3477-Fruits-Into-Baskets-II/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1167,6 +1170,7 @@ Inside each folder:
 | 3439      | Reschedule Meetings for Maximum Free Time I                   | ✅ Done |
 | 3440      | Reschedule Meetings for Maximum Free Time II                  | ✅ Done |
 | 3443      | Maximum Manhattan Distance After K Changes                    | ✅ Done |
+| 3459      | Length of Longest V-Shaped Diagonal Segment                   | ✅ Done |
 | 3477      | Fruits Into Baskets II                                        | ✅ Done |
 | 3479      | Fruits Into Baskets III                                       | ✅ Done |
 | 3480      | Maximize Subarrays After Removing One Conflicting Pair        | ✅ Done |
