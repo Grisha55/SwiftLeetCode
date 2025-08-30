@@ -106,6 +106,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0035-Search-Insert-Position/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0036-Valid-Sudoku/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0042-Trapping-Rain-Water/
 │ └── Solution.swift
 │ └── Problem.md
@@ -926,6 +929,7 @@ Inside each folder:
 | 32        | Longest Valid Parentheses                                     | ✅ Done |
 | 34        | Find First and Last Position of Element in Sorted Array       | ✅ Done |
 | 35        | Search Insert Position                                        | ✅ Done |
+| 36        | Valid Sudoku                                                  | ✅ Done |
 | 42        | Trapping Rain Water                                           | ✅ Done |
 | 49        | Group Anagrams                                                | ✅ Done |
 | 53        | Maximum Subarray                                              | ✅ Done |
