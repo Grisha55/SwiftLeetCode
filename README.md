@@ -796,6 +796,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3025-Find-the-Number-of-Ways-to-Place-People-I/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3027-Find-the-Number-of-Ways-to-Place-People-II/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3033-Modify-the-Matrix/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1169,6 +1172,7 @@ Inside each folder:
 | 3021      | Alice and Bob Playing Flower Game                             | ✅ Done |
 | 3024      | Type of Triangle                                              | ✅ Done |
 | 3025      | Find the Number of Ways to Place People I                     | ✅ Done |
+| 3027      | Find the Number of Ways to Place People II                    | ✅ Done |
 | 3033      | Modify the Matrix                                             | ✅ Done |
 | 3039      | Apply Operations to Make String Empty                         | ✅ Done |
 | 3068      | Find the Maximum Sum of Node Values                           | ✅ Done |
