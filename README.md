@@ -565,6 +565,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1298-Maximum-Candies-You-Can-Get-from-Boxes/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1304-Find-N-Unique-Integers-Sum-up-to-Zero/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1103,6 +1106,7 @@ Inside each folder:
 | 1277      | Count Square Submatrices with All Ones                        | ✅ Done |
 | 1290      | Convert Binary Number in a Linked List to Integer             | ✅ Done |
 | 1298      | Maximum Candies You Can Get from Boxes                        | ✅ Done |
+| 1304      | Find N Unique Integers Sum up to Zero                         | ✅ Done |
 | 1312      | Minimum Insertion Steps to Make a String Palindrome           | ✅ Done |
 | 1323      | Maximum 69 Number                                             | ✅ Done |
 | 1353      | Maximum Number of Events That Can Be Attended                 | ✅ Done |
