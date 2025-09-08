@@ -571,6 +571,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1323-Maximum-69-Number/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1108,6 +1111,7 @@ Inside each folder:
 | 1298      | Maximum Candies You Can Get from Boxes                        | ✅ Done |
 | 1304      | Find N Unique Integers Sum up to Zero                         | ✅ Done |
 | 1312      | Minimum Insertion Steps to Make a String Palindrome           | ✅ Done |
+| 1317      | Convert Integer to the Sum of Two No-Zero Integers            | ✅ Done |
 | 1323      | Maximum 69 Number                                             | ✅ Done |
 | 1353      | Maximum Number of Events That Can Be Attended                 | ✅ Done |
 | 1358      | Number of Substrings Containing All three Characters          | ✅ Done |
