@@ -712,6 +712,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2322-Minimum-Score-After-Removals-on-a-Tree/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2327-Number-of-People-Aware-of-a-Secret/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2348-Number-of-Zero-Filled-Subarrays/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1159,6 +1162,7 @@ Inside each folder:
 | 2294      | Partition Array Such That Maximum Difference Is K             | ✅ Done |
 | 2311      | Longest Binary Subsequence Less Than or Equal to K            | ✅ Done |
 | 2322      | Minimum Score After Removals on a Tree                        | ✅ Done |
+| 2327      | Number of People Aware of a Secret                            | ✅ Done |
 | 2348      | Number of Zero-Filled Subarrays                               | ✅ Done |
 | 2359      | Find Closest Node to Given Two Nodes                          | ✅ Done |
 | 2367      | Number of Arithmetic Triplets                                 | ✅ Done |
