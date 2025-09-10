@@ -619,6 +619,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1717-Maximum-Score-From-Removing-Substrings/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1733-Minimum-Number-of-People-to-Teach/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1751-Maximum-Number-of-Events-That-Can-Be-Attended-II/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1131,6 +1134,7 @@ Inside each folder:
 | 1695      | Maximum Erasure Value                                         | ✅ Done |
 | 1700      | Number of Students Unable to Eat Lunch                        | ✅ Done |
 | 1717      | Maximum Score From Removing Substrings                        | ✅ Done |
+| 1733      | Minimum Number of People to Teach                             | ✅ Done |
 | 1751      | Maximum Number of Events That Can Be Attended II              | ✅ Done |
 | 1792      | Maximum Average Pass Ratio                                    | ✅ Done |
 | 1823      | Find the Winner of the Circular Game                          | ✅ Done |
