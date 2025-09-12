@@ -850,6 +850,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3202-Find-the-Maximum-Length-of-Valid-Subsequence-II/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3227-Vowels-Game-in-a-String/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3304-Find-the-K-th-Character-in-String-Game-I/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1214,6 +1217,7 @@ Inside each folder:
 | 3197      | Find the Minimum Area to Cover All Ones II                    | ✅ Done |
 | 3201      | Find the Maximum Length of Valid Subsequence I                | ✅ Done |
 | 3202      | Find the Maximum Length of Valid Subsequence II               | ✅ Done |
+| 3227      | Vowels Game in a String                                       | ✅ Done |
 | 3304      | Find the K-th Character in String Game I                      | ✅ Done |
 | 3307      | Find the K-th Character in String Game II                     | ✅ Done |
 | 3330      | Find the Original Typed String I                              | ✅ Done |
