@@ -919,6 +919,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3537-Fill-a-Special-Grid/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3541-Find-Most-Frequent-Vowel-and-Consonant/
+│ └── Solution.swift
+│ └── Problem.md
 ```
 
 Inside each folder:
@@ -1240,6 +1243,7 @@ Inside each folder:
 | 3495      | Minimum Operations to Make Array Elements Zero                | ✅ Done |
 | 3516      | Find Closest Person                                           | ✅ Done |
 | 3537      | Fill a Special Grid                                           | ✅ Done |
+| 3541      | Find Most Frequent Vowel and Consonant                        | ✅ Done |
 | ...       |                                                               | 🚧 WIP  |
 
 You can track my progress on [leetcode.com](https://github.com/Grisha55).
