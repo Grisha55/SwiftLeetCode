@@ -517,6 +517,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 0950-Reveal-Cards-In-Increasing-Order/
 │ └── Solution.swift
 │ └── Problem.md
+├── 0966-Vowel-Spellchecker/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 0983-Minimum-Cost-For-Tickets/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1108,6 +1111,7 @@ Inside each folder:
 | 945       | Minimum Increment to Make Array Unique                        | ✅ Done |
 | 948       | Bag of Tokens                                                 | ✅ Done |
 | 950       | Reveal Cards In Increasing Order                              | ✅ Done |
+| 966       | Vowel Spellchecker                                            | ✅ Done |
 | 983       | Minimum Cost For Tickets                                      | ✅ Done |
 | 1011      | Capacity To Ship Packages Within D Days                       | ✅ Done |
 | 1021      | Remove Outermost Parentheses                                  | ✅ Done |
