@@ -646,6 +646,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 1900-The-Earliest-and-Latest-Rounds-Where-Players-Compete/
 │ └── Solution.swift
 │ └── Problem.md
+├── 1935-Maximum-Number-of-Words-You-Can-Type/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 1948-Delete-Duplicate-Folders-in-System/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1155,6 +1158,7 @@ Inside each folder:
 | 1865      | Finding Pairs With a Certain Sum                              | ✅ Done |
 | 1877      | Minimize Maximum Pair Sum in Array                            | ✅ Done |
 | 1900      | The Earliest and Latest Rounds Where Players Compete          | ✅ Done |
+| 1935      | Maximum Number of Words You Can Type                          | ✅ Done |
 | 1948      | Delete Duplicate Folders in System                            | ✅ Done |
 | 1957      | Delete Characters to Make Fancy String                        | ✅ Done |
 | 1964      | Find the Longest Valid Obstacle Course at Each Position       | ✅ Done |
