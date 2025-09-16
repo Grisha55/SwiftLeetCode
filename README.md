@@ -694,6 +694,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2163-Minimum-Difference-in-Sums-After-Removal-of-Elements/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2197-Replace-Non-Coprime-Numbers-in-Array/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2200-Find-All-K-Distant-Indices-in-an-Array/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1174,6 +1177,7 @@ Inside each folder:
 | 2140      | Solving Questions With Brainpower                             | ✅ Done |
 | 2150      | Find All Lonely Numbers in the Array                          | ✅ Done |
 | 2163      | Minimum Difference in Sums After Removal of Elements          | ✅ Done |
+| 2197      | Replace Non-Coprime Numbers in Array                          | ✅ Done |
 | 2200      | Find All K-Distant Indices in an Array                        | ✅ Done |
 | 2202      | Convert 1D Array Into 2D Array                                | ✅ Done |
 | 2210      | Count Hills and Valleys in an Array                           | ✅ Done |
