@@ -730,6 +730,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 2348-Number-of-Zero-Filled-Subarrays/
 │ └── Solution.swift
 │ └── Problem.md
+├── 2353-Design-a-Food-Rating-System/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 2359-Find-Closest-Node-to-Given-Two-Nodes/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1189,6 +1192,7 @@ Inside each folder:
 | 2322      | Minimum Score After Removals on a Tree                        | ✅ Done |
 | 2327      | Number of People Aware of a Secret                            | ✅ Done |
 | 2348      | Number of Zero-Filled Subarrays                               | ✅ Done |
+| 2353      | Design a Food Rating System                                   | ✅ Done |
 | 2359      | Find Closest Node to Given Two Nodes                          | ✅ Done |
 | 2367      | Number of Arithmetic Triplets                                 | ✅ Done |
 | 2375      | Construct Smallest Number From DI String                      | ✅ Done |
