@@ -895,6 +895,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3405-Count-the-Number-Of-Arrays-with-K-Matching-Adjacent-Elements/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3408-Design-Task-Manager/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3439-Reschedule-Meetings-for-Maximum-Free-Time-I/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1247,6 +1250,7 @@ Inside each folder:
 | 3373      | Maximize the Number of Target Nodes After Connecting Trees II | ✅ Done |
 | 3403      | Find the Lexicographically Largest String From the Box I      | ✅ Done |
 | 3405      | Count the Number of Arrays with K Matching Adjacent Elements  | ✅ Done |
+| 3408      | Design Task Manager                                           | ✅ Done |
 | 3439      | Reschedule Meetings for Maximum Free Time I                   | ✅ Done |
 | 3440      | Reschedule Meetings for Maximum Free Time II                  | ✅ Done |
 | 3443      | Maximum Manhattan Distance After K Changes                    | ✅ Done |
