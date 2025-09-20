@@ -931,6 +931,9 @@ Each solution is placed in a folder named by its problem number and title:
 ├── 3495-Minimum-Operations-to-Make-Array-Elements-Zero/
 │ └── Solution.swift
 │ └── Problem.md
+├── 3508-Implement-Router/
+│ └── Solution.swift
+│ └── Problem.md
 ├── 3516-Find-Closest-Person/
 │ └── Solution.swift
 │ └── Problem.md
@@ -1265,6 +1268,7 @@ Inside each folder:
 | 3484      | Design Spreadsheet                                            | ✅ Done |
 | 3487      | Maximum Unique Subarray Sum After Deletion                    | ✅ Done |
 | 3495      | Minimum Operations to Make Array Elements Zero                | ✅ Done |
+| 3508      | Implement Router                                              | ✅ Done |
 | 3516      | Find Closest Person                                           | ✅ Done |
 | 3537      | Fill a Special Grid                                           | ✅ Done |
 | 3541      | Find Most Frequent Vowel and Consonant                        | ✅ Done |
